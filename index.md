@@ -8,7 +8,11 @@ This workshop focuses on visualization education, literacy, and activities and w
 
 ## Call for Submission
 
-* * *
+SUBMISSION FORMATS
+The workshop will accept three types of submissions, peer reviewed by at least two PC members and one workshop organizer:
+Full papers (6-8 pages excluding references, intended for publication through the IEEE DL)
+Short papers (2-4 pages excluding references, not for publication in IEEE DL)
+Activities: practical reports that describe how an actitivity is conducted and how it could be reused by others and in other contexts; these activity reports will be published on the workshop website (not for publication in IEEE DL).
 
 ## Program Committee
 
