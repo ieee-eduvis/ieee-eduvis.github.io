@@ -4,7 +4,9 @@ layout: default
 
 # IEEE VIS Workshop on Visualization Education, Literacy, and Activities
 
-This workshop focuses on visualization education, literacy, and activities and will be held in _October 2023_ at [IEEE VIS](https://ieeevis.org/) in _Melbourne, Australia_. It aims to streamline previous efforts and initiatives of the visualization community to provide a format for education and engagement practices in visualization. It intends to bring together junior and senior scholars to share research and experience and to discuss novel activities, teaching methods, and research challenges. The workshop aims to serve as a platform for interdisciplinary researchers within and beyond the visualization community such as education, learning analytics, science communication, psychology, or people from adjacent fields such as data science, AI, and HCI. It will include presentations of research papers and practical reports, as well as hands-on activities. In addition, the workshop will allow participants to discuss challenges they face in data visualization education and sketch a research agenda of visualization education, literacy, and activities.
+This workshop focuses on visualization education, literacy, and activities and will be held in _October 2023_ at [IEEE VIS](https://ieeevis.org/) in _Melbourne, Australia_. It aims to streamline previous efforts and initiatives of the visualization community to provide a format for education and engagement practices in visualization. It intends to bring together junior and senior scholars to share research and experience and to discuss novel activities, teaching methods, and research challenges. The workshop aims to serve as a platform for interdisciplinary researchers within and beyond the visualization community such as education, learning analytics, science communication, psychology, or people from adjacent fields such as data science, AI, and HCI. It will include presentations of research papers and practical reports, as well as hands-on activities. In addition, the workshop will allow participants to discuss challenges they face in data visualization education and sketch a research agenda of visualization education, literacy, and activities. See the [full proposal here](https://arxiv.org/abs/2303.10708).
+
+## Call for Submission
 
 * * *
 
@@ -43,8 +45,8 @@ This workshop focuses on visualization education, literacy, and activities and w
 * [Mandy Keck](https://pure.fh-ooe.at/en/persons/mandy-keck), University of Applied Scienes Upper Austria
 * [Samuel Huron](https://www.telecom-paris.fr/samuel-huron), Telecom Paris, Institut Polytechnique de Paris
 * [Georgia Panagiotidou](https://uclic.ucl.ac.uk/people/georgia-panagiotidou), UCLIC, University College London
-* [Christina Stoiber](https://icmt.fhstp.ac.at/en/team/christina-stoiber)
-* [Fateme Rajabiyazdi](https://fatemerajabiyazdi.github.io/)
-* [Charles Perin](http://charlesperin.net/)
+* [Christina Stoiber](https://icmt.fhstp.ac.at/en/team/christina-stoiber), St. Pölten University of Applied Sciences
+* [Fateme Rajabiyazdi](https://fatemerajabiyazdi.github.io/), Carleton University
+* [Charles Perin](http://charlesperin.net/), University of Victoria
 * [Jonathan C. Roberts](https://www.bangor.ac.uk/computer-science-and-electronic-engineering/staff/jonathan-roberts/en), Bangor University
 * [Benjamin Bach](http://benjbach.net), University of Edinburgh
