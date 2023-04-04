@@ -22,7 +22,7 @@ This workshop focuses on visualization education, literacy, and activities and w
 *   Marian Dörk (University of Applied Sciences Potsdam)
 *   Jason Dykes (City – University of London)
 *   Yuri Engelhardt (University of Twente)
-*   Kyle Hall (TD)
+*   Kyle Hall (TD Bank)
 *   Uta Hinrichs (University of Edinburgh)
 *   Xavier Ho (Monash University)
 *   Dietrich Kammer (University of Applied Sciences Dresden)
