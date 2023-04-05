@@ -4,7 +4,8 @@ layout: default
 
 # IEEE VIS Workshop on Visualization Education, Literacy, and Activities
 
-This workshop focuses on visualization education, literacy, and activities and will be held in _October 2023_ at [IEEE VIS](https://ieeevis.org/) in _Melbourne, Australia_. It intends to bring together junior and senior scholars to share research and experience and to discuss novel activities, teaching methods, and research challenges. The workshop aims to serve as a platform for interdisciplinary researchers within and beyond the visualization community such as education, learning analytics, science communication, psychology, or people from adjacent fields such as data science, AI, and HCI. It will include presentations of research papers and practical reports, as well as hands-on activities. In addition, the workshop will allow participants to discuss challenges they face in data visualization education and sketch a research agenda of visualization education, literacy, and activities. See the [full proposal here](https://arxiv.org/abs/2303.10708).
+This workshop focuses on visualization education, literacy, and activities and will be held in _October 2023_ at [IEEE VIS](https://ieeevis.org/) in _Melbourne, Australia_. It intends to bring together junior and senior scholars to share research and experience and to discuss novel activities, teaching methods, and research challenges. The workshop aims to serve as a platform for interdisciplinary researchers within and beyond the visualization community such as education, learning analytics, science communication, psychology, or people from adjacent fields such as data science, AI, and HCI. It will include presentations of research papers and practical reports, as well as hands-on activities. In addition, the workshop will allow participants to discuss challenges they face in data visualization education and sketch a research agenda of visualization education, literacy, and activities. 
+See the [full proposal here](https://arxiv.org/abs/2303.10708).
 
 ## Workshop goals and scope of topics
 
@@ -16,7 +17,7 @@ With this workshop, we want to achieve the following goals:
 * collect, test, and systematize learning activities
 * discuss higher-level issues concerning human-centered approaches to visualization, visualization design, and education
 
-The workshop topics include, but are not limited to:
+The *workshop topics* include, but are not limited to:
 * Visualization literacy
 * Learning goals and learning methods
 * Evaluation methods and learning analytics
@@ -50,12 +51,12 @@ Full and short papers must follow the formatting guidelines for [IEEE VIS TVCG J
 ## Important Dates
 
 All deadlines are at 11:59pm (23:59) AoE Anywhere on Earth
-* July 1, 2023: Submission Deadline
-* July 25, 2023: Reviews Collected
-* July 30, 2023: Author Notification
-* August 15, 2023: Submission Camera Ready Deadline
-* September 20, 2023: Deadline for Activity Submission
-* October 22-27, 2023: IEEE VIS in Melbourne, Australia (the workshop day will be announced later)
+* *July 1, 2023:* Submission Deadline
+* *July 25, 2023:* Reviews Collected
+* *July 30, 2023:* Author Notification
+* *August 15, 2023:* Submission Camera Ready Deadline
+* *September 20, 2023:* Deadline for Activity Submission
+* *October 22-27, 2023:* IEEE VIS in Melbourne, Australia (the workshop day will be announced later)
 
 ## Program Committee
 
