@@ -43,7 +43,7 @@ The **workshop topics** include, but are not limited to:
 
 The workshop accepts three types of submissions: 
 * **Full papers:** 6-8 pages excluding references, intended for publication through the IEEE DL
-* **Short papers:** 2-4 pages excluding references, not for publication in IEEE DL
+* **Short papers:** 2-4 pages excluding references
 * **Activities:** practical reports that describe how an activity is conducted and how it could be reused by others and in other contexts; these activity reports will be published on the workshop website (not for publication in IEEE DL).
 
 Full and short papers must follow the formatting guidelines for [IEEE VIS TVCG Journal submissions](https://tc.computer.org/vgtc/publications/journal/). We will use the  [Precision Conference System (PCS)](https://new.precisionconference.com/) for the submission and reviewing process.
