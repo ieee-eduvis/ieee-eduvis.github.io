@@ -12,7 +12,7 @@ See the [full proposal here](https://arxiv.org/abs/2303.10708).
 With this workshop, we want to achieve the following goals: 
 * build a forum and interdisciplinary community around teaching data visualization, open to researchers, students, and practitioners outside the traditional VIS community
 * publish research on visualization literacy, education and teaching, activities, and practices, etc.
-* discuss best practices to teach data visualization to diverse audiences (e.g., children/adult learning, data journalists/data scientists/computer scientists/designers) and in different scenarios (onsite, online, hybrid)
+* discuss best practices to teach data visualization to diverse audiences (e.g., children, data journalists, data scientists, computer scientists, designers) and in different scenarios (onsite, online, hybrid)
 * share visualization educational tools, material, and processes
 * collect, test, and systematize learning activities
 * discuss higher-level issues concerning human-centered approaches to visualization, visualization design, and education
