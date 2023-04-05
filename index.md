@@ -5,6 +5,7 @@ layout: default
 # IEEE VIS Workshop on Visualization Education, Literacy, and Activities
 
 This workshop focuses on visualization education, literacy, and activities and will be held in _October 2023_ at [IEEE VIS](https://ieeevis.org/) in _Melbourne, Australia_. It intends to bring together junior and senior scholars to share research and experience and to discuss novel activities, teaching methods, and research challenges. The workshop aims to serve as a platform for interdisciplinary researchers within and beyond the visualization community such as education, learning analytics, science communication, psychology, or people from adjacent fields such as data science, AI, and HCI. It will include presentations of research papers and practical reports, as well as hands-on activities. In addition, the workshop will allow participants to discuss challenges they face in data visualization education and sketch a research agenda of visualization education, literacy, and activities. 
+
 See the [full proposal here](https://arxiv.org/abs/2303.10708).
 
 ## Workshop goals and scope of topics
