@@ -17,7 +17,7 @@ With this workshop, we want to achieve the following goals:
 * collect, test, and systematize learning activities
 * discuss higher-level issues concerning human-centered approaches to visualization, visualization design, and education
 
-The *workshop topics* include, but are not limited to:
+The **workshop topics** include, but are not limited to:
 * Visualization literacy
 * Learning goals and learning methods
 * Evaluation methods and learning analytics
@@ -41,9 +41,9 @@ The *workshop topics* include, but are not limited to:
 ## Call for Submission
 
 The workshop accepts three types of submissions: 
-* Full papers (6-8 pages excluding references, intended for publication through the IEEE DL)
-* Short papers (2-4 pages excluding references, not for publication in IEEE DL)
-* Activities: practical reports that describe how an activity is conducted and how it could be reused by others and in other contexts; these activity reports will be published on the workshop website (not for publication in IEEE DL).
+* **Full papers:** 6-8 pages excluding references, intended for publication through the IEEE DL
+* **Short papers:** 2-4 pages excluding references, not for publication in IEEE DL
+* **Activities:** practical reports that describe how an activity is conducted and how it could be reused by others and in other contexts; these activity reports will be published on the workshop website (not for publication in IEEE DL).
 
 Full and short papers must follow the formatting guidelines for [IEEE VIS TVCG Journal submissions](https://tc.computer.org/vgtc/publications/journal/). We will use the  [Precision Conference System (PCS)](https://new.precisionconference.com/) for the submission and reviewing process.
 
@@ -51,12 +51,12 @@ Full and short papers must follow the formatting guidelines for [IEEE VIS TVCG J
 ## Important Dates
 
 All deadlines are at 11:59pm (23:59) AoE Anywhere on Earth
-* *July 1, 2023:* Submission Deadline
-* *July 25, 2023:* Reviews Collected
-* *July 30, 2023:* Author Notification
-* *August 15, 2023:* Submission Camera Ready Deadline
-* *September 20, 2023:* Deadline for Activity Submission
-* *October 22-27, 2023:* IEEE VIS in Melbourne, Australia (the workshop day will be announced later)
+* **July 1, 2023:** Submission Deadline
+* **July 25, 2023:** Reviews Collected
+* **July 30, 2023:** Author Notification
+* **August 15, 2023:** Submission Camera Ready Deadline
+* **September 20, 2023:** Deadline for Activity Submission
+* **October 22-27, 2023:** IEEE VIS in Melbourne, Australia (the workshop day will be announced later)
 
 ## Program Committee
 
