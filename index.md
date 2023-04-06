@@ -81,7 +81,7 @@ All deadlines are at 11:59pm (23:59) AoE Anywhere on Earth
 *   Tatiana Losev (Simon Fraser University – Burnaby)
 *   Areti Manataki (University of St Andrews)
 *   Isabel Meirelles (The Ontario College of Art and Design University)
-*   Luiz Morais (INRIA – Bordeaux)
+*   Luiz Morais (Universidade Federal de Pernambuco)
 *   Till Nagel (Hochschule Mannheim)
 *   Arran Ridley (University of Leeds)
 *   Panagiotis Ritsos (Bangor University)
