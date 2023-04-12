@@ -75,7 +75,7 @@ All deadlines are at 11:59pm (23:59) AoE Anywhere on Earth
 *   Uta Hinrichs (University of Edinburgh)
 *   Xavier Ho (Monash University)
 *   Dietrich Kammer (University of Applied Sciences Dresden)
-*   Doris Kosminsky (University of Rio de Janeiro)
+*   Doris Kosminsky (Federal University of Rio de Janeiro)
 *   Søren Knudsen (IT University of Copenhagen)
 *   Robert S Laramee (University of Nottingham)
 *   Tatiana Losev (Simon Fraser University – Burnaby)
