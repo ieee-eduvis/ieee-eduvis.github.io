@@ -4,7 +4,7 @@ layout: default
 
 # IEEE VIS Workshop on Visualization Education, Literacy, and Activities
 
-This workshop focuses on visualization education, literacy, and activities and will be held in _October 2023_ at [IEEE VIS](https://ieeevis.org/) in _Melbourne, Australia_. It intends to bring together junior and senior scholars to share research and experience and to discuss novel activities, teaching methods, and research challenges. The workshop aims to serve as a platform for interdisciplinary researchers within and beyond the visualization community such as education, learning analytics, science communication, psychology, or people from adjacent fields such as data science, AI, and HCI. It will include presentations of research papers and practical reports, as well as hands-on activities. In addition, the workshop will allow participants to discuss challenges they face in data visualization education and sketch a research agenda of visualization education, literacy, and activities. 
+This workshop focuses on visualization education, literacy, and activities and will be held in _October 2023_ at [IEEE VIS](https://ieeevis.org/) in _Melbourne, Australia_. It intends to bring together scholars to share research and experience and discuss novel activities, teaching methods, and research challenges. The workshop aims to serve as a platform for scholars within and beyond the visualization community such as education, learning analytics, science communication, psychology, or people from adjacent fields such as data science, AI, and HCI. It will include presentations of research papers and practical sessions with hands-on activities. In addition, the workshop will allow participants to discuss challenges they face in data visualization education and outline a research agenda of visualization education, literacy, and activities. 
 
 See the [full proposal here](https://arxiv.org/abs/2303.10708).
 
@@ -12,11 +12,9 @@ See the [full proposal here](https://arxiv.org/abs/2303.10708).
 
 With this workshop, we want to achieve the following goals: 
 * build a forum and interdisciplinary community around teaching data visualization, open to researchers, students, and practitioners outside the traditional VIS community
-* publish research on visualization literacy, education and teaching, activities, and practices, etc.
-* discuss best practices to teach data visualization to diverse audiences (e.g., children, data journalists, data scientists, computer scientists, designers) and in different scenarios (onsite, online, hybrid)
-* share visualization educational tools, material, and processes
+* share research on visualization literacy, education and teaching, and practices
 * collect, test, and systematize learning activities
-* discuss higher-level issues concerning human-centered approaches to visualization, visualization design, and education
+* discuss best practices and challenges concerning visualization education and literacy
 
 The **workshop topics** include, but are not limited to:
 * Visualization literacy
@@ -25,9 +23,9 @@ The **workshop topics** include, but are not limited to:
 * Educational tools
 * Visualization activities
 * Pedagogy in visualization
-* Hybrid and online teaching
+* Teaching in different scenarios (onsite, online, hybrid)
 * Reflective and research practices
-* Understanding audiences
+* Understanding and teaching to diverse audiences (e.g., children/adult learning, data journalists/data scientists/computer scientists/designers) 
 * Guidelines, strategies, and guidance for education
 * Debate and discussions on visualization guidelines and well-established knowledge
 * Knowledge dissemination
@@ -47,6 +45,7 @@ The workshop accepts two types of submissions:
 
 Full and short papers must follow the formatting guidelines for [IEEE VIS TVCG Journal submissions](https://tc.computer.org/vgtc/publications/journal/). We will use the  [Precision Conference System (PCS)](https://new.precisionconference.com/) for the submission and reviewing process.
 
+At least one author per accepted paper must register for IEEE VIS and present the work at the workshop, which will take place on 22 or 23 October 2023 during the conference in Melbourne, Australia. There is no online or hybrid participation planned this year. 
 
 ## Important Dates
 
