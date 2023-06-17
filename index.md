@@ -40,12 +40,11 @@ The **workshop topics** include, but are not limited to:
 ## Call for Submission
 
 The workshop accepts two types of submissions: 
-* **Research papers:** authors are encouraged to submit a paper of length proportional to its contribution (submissions are expected to be minimum of 2 pages to a maximum of 8 pages excluding references, intended for publication through the IEEE Xplore DL)
+* **Research papers:** authors are encouraged to submit a paper of length proportional to its contribution (submissions are expected to be minimum of 2 pages to a maximum of 8 pages excluding references, intended for publication through the IEEE Xplore DL).
+Research papers must follow the formatting guidelines for [IEEE VIS TVCG Journal submissions](https://tc.computer.org/vgtc/publications/journal/).
+We will use the  [Precision Conference System (PCS)](https://new.precisionconference.com/) for the research paper submission and reviewing process.
 * **Activities:** practical reports that describe how an activity is conducted and how it could be reused by others and in other contexts; these activity reports will be published on the workshop website (not for publication in IEEE Xplore DL).
-
-Full and short papers must follow the formatting guidelines for [IEEE VIS TVCG Journal submissions](https://tc.computer.org/vgtc/publications/journal/).
-Activities must follow the following [template](https://docs.google.com/document/d/1QM_YtQduTlBjA459URkbUFg9NU9V6W2aJLVT3RoEk5Y/edit?usp=sharing). 
-We will use the  [Precision Conference System (PCS)](https://new.precisionconference.com/) for the submission and reviewing process.
+Activities must follow the following [template](https://docs.google.com/document/d/1QM_YtQduTlBjA459URkbUFg9NU9V6W2aJLVT3RoEk5Y/edit?usp=sharing) and submitted via email to ieee-eduvis@googlegroups.com.
 
 At least one author per accepted paper must register for IEEE VIS and present the work at the workshop, which will take place on 22 or 23 October 2023 during the conference in Melbourne, Australia. There is no online or hybrid participation planned this year. 
 
