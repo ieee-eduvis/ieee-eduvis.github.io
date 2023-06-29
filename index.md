@@ -52,8 +52,8 @@ At least one author per accepted paper must register for IEEE VIS and present th
 
 All deadlines are at 11:59pm (23:59) AoE Anywhere on Earth
 * **July 2, 2023:** Abstract Submission Deadline
-* **July 9, 2023:** Paper Submission Deadline
-* **August 4, 2023:** Author Notification
+* ~~July 1, 2023:~~ -> **July 9, 2023:** Paper Submission Deadline
+* ~~July 30, 2023:~~ -> **August 4, 2023:** Author Notification
 * **August 15, 2023:** Submission Camera Ready Deadline
 * **September 20, 2023:** Deadline for Activity Submission
 * **October 22-27, 2023:** IEEE VIS in Melbourne, Australia (the workshop day will be announced later)
