@@ -41,7 +41,7 @@ The **workshop topics** include, but are not limited to:
 
 The workshop accepts two types of submissions: 
 * **Research papers:** authors are encouraged to submit a paper of length proportional to its contribution (submissions are expected to be minimum of 2 pages to a maximum of 8 pages excluding references, intended for publication through the IEEE Xplore DL).
-Research papers must follow the formatting guidelines for [IEEE VIS TVCG Journal submissions](https://tc.computer.org/vgtc/publications/journal/).
+Research papers must follow the formatting guidelines for [VGTC Conference Style Template.](https://tc.computer.org/vgtc/publications/conference/).
 We will use the  [Precision Conference System (PCS)](https://new.precisionconference.com/) for the research paper submission and reviewing process. We allow both double-blind (anonymized) and single-blind (not anonymized) submissions.
 * **Activities:** practical reports that describe how an activity is conducted and how it could be reused by others and in other contexts; these activity reports will be published on the workshop website (not for publication in IEEE Xplore DL).
 Activities must follow the following [template](https://docs.google.com/document/d/1QM_YtQduTlBjA459URkbUFg9NU9V6W2aJLVT3RoEk5Y/edit?usp=sharing) and submitted via email to ieee-eduvis@googlegroups.com.
@@ -55,7 +55,7 @@ All deadlines are at 11:59pm (23:59) AoE Anywhere on Earth
 * ~~July 1, 2023:~~ -> **July 9, 2023:** Paper Submission Deadline
 * ~~July 30, 2023:~~ -> **August 4, 2023:** Author Notification
 * **August 15, 2023:** Submission Camera Ready Deadline
-* **September 20, 2023:** Deadline for Activity Submission
+* **September 20, 2023:** Deadline for Activity Submission (no submission to the abstract deadline required)
 * **October 22-27, 2023:** IEEE VIS in Melbourne, Australia (the workshop day will be announced later)
 
 ## Program Committee
