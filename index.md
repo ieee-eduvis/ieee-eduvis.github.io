@@ -56,7 +56,7 @@ All deadlines are at 11:59pm (23:59) AoE Anywhere on Earth
 * ~~July 30, 2023:~~ -> **August 4, 2023:** Author Notification
 * **August 15, 2023:** Submission Camera Ready Deadline
 * **September 20, 2023:** Deadline for Activity Submission (no submission to the abstract deadline required)
-* **October 22-27, 2023:** IEEE VIS in Melbourne, Australia (the workshop day will be announced later)
+* **October 23, 2023 (9:00 AM-12:00 PM AEDT (UTC+11)):** IEEE VIS in Melbourne, Australia
 
 ## Program Committee
 
