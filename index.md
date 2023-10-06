@@ -8,6 +8,29 @@ This workshop focuses on visualization education, literacy, and activities and w
 
 See the [full proposal here](https://arxiv.org/abs/2303.10708).
 
+## Program
+
+* **9.00 - 9:10:** Workshop Opening & Outline
+* **9:10 - 9:40:** Keynote: Data Storytelling in Learning Analytics … and its intertwined relationship with visualisation literacy (Dr. Roberto Martinez-Maldonado, Monash University)
+* **9:40 - 10:15:** Paper session (part 1)
+
+**10:15 - 10:45:** Coffee Break
+
+* **10:45 - 11:20:** Paper session (part 2)
+* **11:20 - 12:00:** OpenMic VisActivies, WrapUp
+
+## Keynote
+
+**Title:** Data Storytelling in Learning Analytics … and its intertwined relationship with visualisation literacy
+
+Data is omnipresent, yet that doesn't necessarily make us more knowledgeable. The ultimate goal of data analytics is to extract key insights from data to inform decision-making. In education, this is the mission of the fast-growing field of Learning Analytics. This area employs a variety of data-centric tools, from data visualizations to intricate predictive models, to enhance teaching and learning. Yet, the primary objective is to "close the analytics loop" by delivering actionable feedback or recommendations directly to students and educators. This presents a challenge in human-data interaction. Currently, most end-user learning analytics interfaces rely on dashboards featuring various data visualizations, which are often complex and hard to interpret by students and teachers. But the question remains: Can we do better than simply showing charts to students and teachers?
+
+In this keynote, I will discuss about our most recent work in bringing Data Storytelling to Learning Analytics in various collaborative learning settings. This is an emerging approach that shifts the focus from visualising data points to the narratives that can be derived from them. This can be accomplished in several ways, such as combining visualizations with narrative to convey insights, crafting text-based learning analytics tools, experimenting with alternative visualisation techniques like data comics, or developing analytics tools that teachers can use to guide students' reflection. We have also explored whether data storytelling provides more support to audiences with lower visualization literacy.  
+
+**BIO:** Dr. Roberto Martinez-Maldonado received the Ph.D. degree in Information Technologies from the University of Sydney, in 2014. He is currently a Senior Lecturer of Learning Analytics and Human-Computer Interaction with the Faculty of Information Technology and Coordinator of the Centre for Learning Analytics with Monash University, Melbourne, VIC, Australia. He is a co-author of numerous research papers. He is the first Mexican-Australian to win the Swiss-based Jacobs Foundation Research Fellowship (2021–23) for his pioneering research in Human-Centred AI in Education. His research focuses on advancing the understanding of socio-technical issues around the use of artificial intelligence in education, promoting the use of human-centred methodologies to create learning analytics interfaces with integrity and enhancing authentic learning spaces with multimodal data-intensive computing capabilities. He has been Program Chair of the International Conference on Learning Analytics and Knowledge and the International Conference of Artificial Intelligence in Education and he is a regular Associate Chair of the Learning and Education subcommittee of the SIGCHI Conference on Human Factors in Computing Systems. He is Associate Editor of the International Journal of Artificial Intelligence in Education. 
+
+
+
 ## Workshop goals and scope of topics
 
 With this workshop, we want to achieve the following goals: 
