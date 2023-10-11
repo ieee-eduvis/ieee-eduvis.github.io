@@ -12,16 +12,22 @@ See the [full proposal here](https://arxiv.org/abs/2303.10708).
 
 **9.00 - 9:10:** Workshop Opening & Outline
 **9:10 - 9:40:** Keynote: Data Storytelling in Learning Analytics … and its intertwined relationship with visualisation literacy (Dr. Roberto Martinez-Maldonado, Monash University)
-**9:40 - 10:15:** Paper session (part 1)
-* Educational Data Comics: What can Comics do for Education in Visualization? (Magdalena Boucher,Benjamin Bach, Christina Stoiber, Zezhong Wang, Wolfgang Aigner)
-* Reflections on Designing and Running Visualization Design and Programming Activities in Courses with Many Students (Søren Knudsen, Mathilde Bech Bennetsen, Terese Kimmie Høj, Camilla Jensen, Rebecca Louise Nørskov Jørgensen, Christian Søe Loft)
-* Design Actions for the Design of Visualization Onboarding Methods (Christina Stoiber, Margit Pohl, Wolfgang Aigner)
-* Preparing Future Data Visualization Designers for Professional Practice (Paul Parsons)
+**9:40 - 10:15:** Paper session
+* **Educational Data Comics: What can Comics do for Education in Visualization?** (Magdalena Boucher,Benjamin Bach, Christina Stoiber, Zezhong Wang, Wolfgang Aigner)
+* **Reflections on Designing and Running Visualization Design and Programming Activities in Courses with Many Students** (Søren Knudsen, Mathilde Bech Bennetsen, Terese Kimmie Høj, Camilla Jensen, Rebecca Louise Nørskov Jørgensen, Christian Søe Loft)
+* **Design Actions for the Design of Visualization Onboarding Methods** (Christina Stoiber, Margit Pohl, Wolfgang Aigner)
+* **Preparing Future Data Visualization Designers for Professional Practice** (Paul Parsons)
 
 **10:15 - 10:45:** Coffee Break
 
-* **10:45 - 11:20:** Paper session (part 2)
-* **11:20 - 12:00:** OpenMic VisActivies, WrapUp
+**10:45 - 11:20:** Paper session
+* **Beyond Generating Code: Evaluating GPT on a Data Visualization Course** (Chen Zhu-Tian, Chenyang Zhang, Qianwen Wang, Jakob Troidl, Simon Alexander Warchol, Johanna Beyer, Nils Gehlenborg, Hanspeter Pfister)
+* **Developing Technical Skillsets in Diverse Audiences** (Jonathan Leidig)
+* **Reflections on Teaching ‘Data Exploration and Visualisation’ in Multiple Modes** (Michael Niemann, Sarah Goodwin, Kim Marriott)
+* **dAn-oNo Learning Environment for Data Journalists Teaching Data Analytics Principles** (Christina Stoiber, Štefan Emrich, Sonja Radkohl, Eva Goldgruber, Wolfgang Aigner)
+* **"Choose-your-own" D3 labs for learning to adapt online code** (Maryam Hedayati, Matthew Kay)
+
+**11:20 - 12:00:** OpenMic VisActivies, WrapUp
 
 ## Keynote
 
