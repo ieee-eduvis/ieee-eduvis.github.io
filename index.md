@@ -10,9 +10,13 @@ See the [full proposal here](https://arxiv.org/abs/2303.10708).
 
 ## Program
 
-* **9.00 - 9:10:** Workshop Opening & Outline
-* **9:10 - 9:40:** Keynote: Data Storytelling in Learning Analytics … and its intertwined relationship with visualisation literacy (Dr. Roberto Martinez-Maldonado, Monash University)
-* **9:40 - 10:15:** Paper session (part 1)
+**9.00 - 9:10:** Workshop Opening & Outline
+**9:10 - 9:40:** Keynote: Data Storytelling in Learning Analytics … and its intertwined relationship with visualisation literacy (Dr. Roberto Martinez-Maldonado, Monash University)
+**9:40 - 10:15:** Paper session (part 1)
+* Educational Data Comics: What can Comics do for Education in Visualization? (Magdalena Boucher,Benjamin Bach, Christina Stoiber, Zezhong Wang, Wolfgang Aigner)
+* Reflections on Designing and Running Visualization Design and Programming Activities in Courses with Many Students (Søren Knudsen, Mathilde Bech Bennetsen, Terese Kimmie Høj, Camilla Jensen, Rebecca Louise Nørskov Jørgensen, Christian Søe Loft)
+* Design Actions for the Design of Visualization Onboarding Methods (Christina Stoiber, Margit Pohl, Wolfgang Aigner)
+* Preparing Future Data Visualization Designers for Professional Practice (Paul Parsons)
 
 **10:15 - 10:45:** Coffee Break
 
