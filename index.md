@@ -4,13 +4,15 @@ layout: default
 
 # IEEE VIS Workshop on Visualization Education, Literacy, and Activities
 
-This workshop focuses on visualization education, literacy, and activities and will be held in _October 2023_ at [IEEE VIS](https://ieeevis.org/) in _Melbourne, Australia_. It intends to bring together scholars to share research and experience and discuss novel activities, teaching methods, and research challenges. The workshop aims to serve as a platform for scholars within and beyond the visualization community such as education, learning analytics, science communication, psychology, or people from adjacent fields such as data science, AI, and HCI. It will include presentations of research papers and practical sessions with hands-on activities. In addition, the workshop will allow participants to discuss challenges they face in data visualization education and outline a research agenda of visualization education, literacy, and activities. 
+This workshop focuses on visualization education, literacy, and activities and will be held on *23 October 2023* at [IEEE VIS](https://ieeevis.org/) in *Melbourne, Australia*. It intends to bring together scholars to share research and experience and discuss novel activities, teaching methods, and research challenges. The workshop aims to serve as a platform for scholars within and beyond the visualization community such as education, learning analytics, science communication, psychology, or people from adjacent fields such as data science, AI, and HCI. It will include presentations of research papers and practical sessions with hands-on activities. In addition, the workshop will allow participants to discuss challenges they face in data visualization education and outline a research agenda of visualization education, literacy, and activities. 
 
 See the [full proposal here](https://arxiv.org/abs/2303.10708).
 
 ## Program
 
-**9.00 - 9:10:** Workshop Opening & Outline
+*23 October 2023 - IEEE VIS Conference (Melbourne Convention and Exhibition Centre, Room 104)*
+
+**9.00 - 9:10 AEDT (UTC+11):** Workshop Opening & Outline
 
 **9:10 - 9:40:** *Keynote:* **Data Storytelling in Learning Analytics … and its intertwined relationship with visualisation literacy** *(Dr. Roberto Martinez-Maldonado, Monash University)*
 
