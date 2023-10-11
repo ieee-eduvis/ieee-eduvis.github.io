@@ -11,27 +11,29 @@ See the [full proposal here](https://arxiv.org/abs/2303.10708).
 ## Program
 
 **9.00 - 9:10:** Workshop Opening & Outline
-**9:10 - 9:40:** Keynote: Data Storytelling in Learning Analytics … and its intertwined relationship with visualisation literacy (Dr. Roberto Martinez-Maldonado, Monash University)
+
+**9:10 - 9:40:** *Keynote:* **Data Storytelling in Learning Analytics … and its intertwined relationship with visualisation literacy** *(Dr. Roberto Martinez-Maldonado, Monash University)*
+
 **9:40 - 10:15:** Paper session
-* **Educational Data Comics: What can Comics do for Education in Visualization?** (Magdalena Boucher,Benjamin Bach, Christina Stoiber, Zezhong Wang, Wolfgang Aigner)
-* **Reflections on Designing and Running Visualization Design and Programming Activities in Courses with Many Students** (Søren Knudsen, Mathilde Bech Bennetsen, Terese Kimmie Høj, Camilla Jensen, Rebecca Louise Nørskov Jørgensen, Christian Søe Loft)
-* **Design Actions for the Design of Visualization Onboarding Methods** (Christina Stoiber, Margit Pohl, Wolfgang Aigner)
-* **Preparing Future Data Visualization Designers for Professional Practice** (Paul Parsons)
+* **Educational Data Comics: What can Comics do for Education in Visualization?** *(Magdalena Boucher,Benjamin Bach, Christina Stoiber, Zezhong Wang, Wolfgang Aigner)*
+* **Reflections on Designing and Running Visualization Design and Programming Activities in Courses with Many Students** *(Søren Knudsen, Mathilde Bech Bennetsen, Terese Kimmie Høj, Camilla Jensen, Rebecca Louise Nørskov Jørgensen, Christian Søe Loft)*
+* **Design Actions for the Design of Visualization Onboarding Methods** *(Christina Stoiber, Margit Pohl, Wolfgang Aigner)*
+* **Preparing Future Data Visualization Designers for Professional Practice** *(Paul Parsons)*
 
 **10:15 - 10:45:** Coffee Break
 
 **10:45 - 11:20:** Paper session
-* **Beyond Generating Code: Evaluating GPT on a Data Visualization Course** (Chen Zhu-Tian, Chenyang Zhang, Qianwen Wang, Jakob Troidl, Simon Alexander Warchol, Johanna Beyer, Nils Gehlenborg, Hanspeter Pfister)
+* **Beyond Generating Code: Evaluating GPT on a Data Visualization Course** *(Chen Zhu-Tian, Chenyang Zhang, Qianwen Wang, Jakob Troidl, Simon Alexander Warchol, Johanna Beyer, Nils Gehlenborg, Hanspeter Pfister)*
 * **Developing Technical Skillsets in Diverse Audiences** (Jonathan Leidig)
-* **Reflections on Teaching ‘Data Exploration and Visualisation’ in Multiple Modes** (Michael Niemann, Sarah Goodwin, Kim Marriott)
-* **dAn-oNo Learning Environment for Data Journalists Teaching Data Analytics Principles** (Christina Stoiber, Štefan Emrich, Sonja Radkohl, Eva Goldgruber, Wolfgang Aigner)
-* **"Choose-your-own" D3 labs for learning to adapt online code** (Maryam Hedayati, Matthew Kay)
+* **Reflections on Teaching ‘Data Exploration and Visualisation’ in Multiple Modes** *(Michael Niemann, Sarah Goodwin, Kim Marriott)*
+* **dAn-oNo Learning Environment for Data Journalists Teaching Data Analytics Principles** *(Christina Stoiber, Štefan Emrich, Sonja Radkohl, Eva Goldgruber, Wolfgang Aigner)*
+* **"Choose-your-own" D3 labs for learning to adapt online code** *(Maryam Hedayati, Matthew Kay)*
 
 **11:20 - 12:00:** OpenMic VisActivies, WrapUp
 
 ## Keynote
 
-**Title:** Data Storytelling in Learning Analytics … and its intertwined relationship with visualisation literacy
+**Title:** *Data Storytelling in Learning Analytics … and its intertwined relationship with visualisation literacy*
 
 Data is omnipresent, yet that doesn't necessarily make us more knowledgeable. The ultimate goal of data analytics is to extract key insights from data to inform decision-making. In education, this is the mission of the fast-growing field of Learning Analytics. This area employs a variety of data-centric tools, from data visualizations to intricate predictive models, to enhance teaching and learning. Yet, the primary objective is to "close the analytics loop" by delivering actionable feedback or recommendations directly to students and educators. This presents a challenge in human-data interaction. Currently, most end-user learning analytics interfaces rely on dashboards featuring various data visualizations, which are often complex and hard to interpret by students and teachers. But the question remains: Can we do better than simply showing charts to students and teachers?
 
