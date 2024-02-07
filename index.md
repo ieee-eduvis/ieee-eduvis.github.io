@@ -8,6 +8,10 @@ This workshop focuses on visualization education, literacy, and activities and w
 
 See the [full proposal here](https://arxiv.org/abs/2303.10708).
 
+## Proceedings
+
+All accepted papers were publish in the [Conference Proceedings](https://www.computer.org/csdl/proceedings/eduvis/2023/1SOLI22NGak) at IEEE Xplore.
+
 ## Program
 
 *23 October 2023 - IEEE VIS Conference (Melbourne Convention and Exhibition Centre, Room 104)*
