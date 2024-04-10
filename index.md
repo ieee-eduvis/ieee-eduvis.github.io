@@ -59,7 +59,7 @@ The workshop will accept two types of submissions, peer-reviewed by at least two
 
 **Educator reports:** short reports (1-2 pages, template agnostic) to discuss opinions or reflections on teaching experiences or describe the results of a datavis activity conducted and how it could be reused by others and in other contexts; they will be published in the Nightingale magazine (pre-arranged with the Data Visualization Society). This is not intended to be assessed as scientific writing; we recommend framing these reports similar to blog posts. The goal of these reports is to disseminate knowledge to non-academic audiences.
 
-At least one author per accepted paper must register for IEEE VIS and present the work at the workshop.
+At least one author for each paper or educator report must register and attend the conference in person or virtually.
 
 
 ## Important Dates
