@@ -70,6 +70,7 @@ All deadlines are at 11:59pm (23:59) AoE Anywhere on Earth
 * July 31, 2024: Author Notification
 * August 8, 2024: Camera-ready Submission
 
+Submissions will be accepted through [PCS](https://new.precisionconference.com/).
 
 ## Program
 
