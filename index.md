@@ -68,7 +68,7 @@ At least one author for each paper or educator report must register and attend t
 All deadlines are at 11:59pm (23:59) AoE Anywhere on Earth
 * July 1, 2024: Paper and Educator Report Submission
 * July 31, 2024: Author Notification
-* August 15, 2024: Camera-ready Submission
+* August 8, 2024: Camera-ready Submission
 
 
 ## Program
