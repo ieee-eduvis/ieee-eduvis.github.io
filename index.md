@@ -57,6 +57,7 @@ The **workshop topics** include, but are not limited to:
 The workshop will accept two types of submissions, peer-reviewed by at least two PC members and one workshop organizer.
 
 **Paper submissions:** full papers (4-8 pages excluding references, must follow the formatting guidelines for VGTC Conference Style Template); submissions will be published at the IEEE Xplore with authors’ permission.
+Note: Similar to the VIS paper stream, we accept both double-blind (anonymized) and single-blind (not anonymized) submission
 
 **Educator reports:** short reports (1-2 pages, template agnostic) to discuss opinions or reflections on teaching experiences or describe the results of a datavis activity conducted and how it could be reused by others and in other contexts; they will be published in the Nightingale magazine (pre-arranged with the Data Visualization Society). This is not intended to be assessed as scientific writing; we recommend framing these reports similar to blog posts. The goal of these reports is to disseminate knowledge to non-academic audiences.
 
