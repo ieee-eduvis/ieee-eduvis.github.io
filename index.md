@@ -7,7 +7,7 @@ layout: default
 This is the second IEEE VIS EduVis Workshop on Visualization Education, Literacy, and Activities.  This workshop happens with the [IEEE VIS 2024](https://ieeevis.org/year/2024/welcome) conference.
  This workshop aims to become a forum to share and discuss advances, challenges, and methods at the intersection of visualization and education. The workshop addresses an interdisciplinary audience from and beyond visualization, education, learning analytics, science communication, psychology, or people from adjacent fields such as data science, AI, and HCI. It will include presentations of research papers and working group discussions. 
 
-
+The full workshop proposal is available <a href="IEEE-EduVis_Workshop_2024.pdf" class="image fit"> here </a>.
 
 
 ## Workshop goals and scope of topics
