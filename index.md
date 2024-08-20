@@ -96,7 +96,7 @@ TBD
 * Ghulam Jilani Quadri (University of South Florida, United States)
 * Shri Harini Ramesh (Carleton University, Canada)
 * Panagiotis Ritsos (Bangor University, UK)
-* Jon Schwabish (Urban Institute, )
+* Jon Schwabish (Urban Institute, United States)
 * Nicole Sultanum (Tableau Research, United States)
 * Zezhong Wang (Simon Fraser University, Canada)
 
