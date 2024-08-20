@@ -79,7 +79,21 @@ TBD
 
 ## Program Committee
 
-TBD
+* Jan Aerts (KU Leuven, Belgium)
+* Jason Dykes (University of London, UK)
+* Elif E. Firat (University of Nottingham, UK)
+* Florian Grassinger (St. Poelten University of Applied Sciences, Austria)
+* Sarah Hayes (Munster Technological University, Ireland)
+* Dietrich Kammer (University of Applied Sciences Dresden, Germany)
+* Doris Kosminsky (Universidade Federal do Rio de Janeiro, Brazil)
+* Robert Laramee (University of Nottingham, United Kingdom)
+* Isabel Meirelles (OCAD University, Canada)
+* Laura Pelchmann (University of Cologne, Germany)
+* Charles Perin (University of Victoria, Canada)
+* Shri Harini Ramesh (Carleton University, Canada)
+* Panagiotis Ritsos (Bangor University, UK)
+* Jon Schwabish (Urban Institute, United States)
+* Nicole Sultanum (Tableau Research, United States)
 
 ## Organizers
 
