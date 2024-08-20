@@ -80,20 +80,25 @@ TBD
 ## Program Committee
 
 * Jan Aerts (KU Leuven, Belgium)
+* Jillian Aurisano (University of Cincinnati, United States)
+* Sarah Dunn (University of Edinburgh, United Kingdom)
 * Jason Dykes (University of London, UK)
 * Elif E. Firat (University of Nottingham, UK)
 * Florian Grassinger (St. Poelten University of Applied Sciences, Austria)
 * Sarah Hayes (Munster Technological University, Ireland)
 * Dietrich Kammer (University of Applied Sciences Dresden, Germany)
+* Martin Kandlhofer (Austrian Computer Society, Austria)
 * Doris Kosminsky (Universidade Federal do Rio de Janeiro, Brazil)
 * Robert Laramee (University of Nottingham, United Kingdom)
 * Isabel Meirelles (OCAD University, Canada)
 * Laura Pelchmann (University of Cologne, Germany)
 * Charles Perin (University of Victoria, Canada)
+* Ghulam Jilani Quadri (University of South Florida, United States)
 * Shri Harini Ramesh (Carleton University, Canada)
 * Panagiotis Ritsos (Bangor University, UK)
-* Jon Schwabish (Urban Institute, United States)
+* Jon Schwabish (Urban Institute, )
 * Nicole Sultanum (Tableau Research, United States)
+* Zezhong Wang (Simon Fraser University, Canada)
 
 ## Organizers
 
