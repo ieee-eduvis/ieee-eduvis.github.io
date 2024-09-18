@@ -14,38 +14,38 @@ The full workshop proposal is available <a href="IEEE-EduVis-Workshop-2024.pdf" 
 
 The workshop is scheduled for Sunday October 13th.
 
-- Block 1: (8:30 am to 9:45 am)
-    - Workshop Opening & Outline
-    - Keynote: [Kate Farrell](https://www.de.ed.ac.uk/people/kate-farrell), Director of Curriculum Development and Professional Learning, Data Education in Schools, The University of Edinburgh
-    - Paper Session 1:
+Block 1: (8:30 am to 9:45 am)
+   - Workshop Opening & Outline
+   - Keynote: [Kate Farrell](https://www.de.ed.ac.uk/people/kate-farrell), Director of Curriculum Development and Professional Learning, Data Education in Schools, The University of Edinburgh
+   - Paper Session 1:
         - Engaging Data-Art: Conducting a Public Hands-On Workshop	Roberts, Jonathan
         - Challenges and Opportunities of Teaching Data Visualization Together with Data Science	Ramesh, Shri Harini
         - An Inductive Approach for PCP	Joshi, Alark
         	
 
-- Block 2: (10:15 am to 11:30 am)
-    - Paper Session 2:
+Block 2: (10:15 am to 11:30 am)
+   - Paper Session 2:
         - AdVizor: Using Visual Explanations to Guide Data-Driven Student Advising	Zhao, Zixin
         - What Can Educational Science Offer Visualization? A Reflective Essay	Besançon, Lonni
         - Teaching Information Visualization through Situated Design: Case Studies from the Classroom	Kosminsky, Doris (online) 
         - Developing a Robust Cartography Curriculum to Train the Professional Cartographer	Nelson, Jonathan (online) 
         - Space to Teach: Content-Rich Canvases for Visually-Intensive Education	Harden, Jesse (online) 
-    - Forming Working Groups
+   - Forming Working Groups
 
-- Block 3: (1:30 pm to 2:45 pm)
-    - Education Report Session + Panel
+Block 3: (1:30 pm to 2:45 pm)
+   - Education Report Session + Panel
         - [Implementing the Solution Framework in a Social Impact Project](https://nightingaledvs.com/implementing-the-solution-framework/?utm_source=DVS+members&utm_campaign=01d942263b-EMAIL_CAMPAIGN_2024_09_12_10_23&utm_medium=email&utm_term=0_22843b2bbe-277ed20f77-%5BLIST_EMAIL_ID%5D&mc_cid=01d942263b&mc_eid=bb5c31f904)	Muñoz, Victor (Online) 
         - Visualization Software: How to Select the Right Software for Teaching Visualization	Ray, Sanjog (Online)
         - What makes school visits to digital science centers successful? 	Göransson, Andreas (Online)
         - TellUs – Leveraging the power of LLMs with visualization to benefit science centers	Besançon, Lonni
         - Beyond storytelling with data: Guidelines for designing exploratory visualizations	Frazier, Jennifer
         - Tracing Carbon: Visualization for Systems Thinking	Konard Schnoborn
-    - Working Group Discussions 
+   - Working Group Discussions 
 
-- Block 4: (3:15 pm to 4:30 pm)
-    - Working Group Discussions
-    - Group Repors
-    - Wrap Up
+Block 4: (3:15 pm to 4:30 pm)
+   - Working Group Discussions
+   - Group Repors
+   - Wrap Up
 
 Attendance:
 
