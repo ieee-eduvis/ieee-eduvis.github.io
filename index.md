@@ -49,7 +49,7 @@ Block 4: (3:15 pm to 4:30 pm)
 
 Attendance:
 
-If you wish to join us online, please register for the Virtual Participation ($20): https://ieeevis.org/year/2024/info/registration/conference-registration
+If you wish to join us online, please register for the Virtual Participation ($20): (https://ieeevis.org/year/2024/info/registration/conference-registration)
 
 If you are attending VIS in person, we will see you there.
 
