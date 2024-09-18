@@ -18,28 +18,28 @@ Block 1: (8:30 am to 9:45 am)
    - Workshop Opening & Outline
    - Keynote: [Kate Farrell](https://www.de.ed.ac.uk/people/kate-farrell), Director of Curriculum Development and Professional Learning, Data Education in Schools, The University of Edinburgh
    - Paper Session 1:
-        - Engaging Data-Art: Conducting a Public Hands-On Workshop	Roberts, Jonathan
-        - Challenges and Opportunities of Teaching Data Visualization Together with Data Science	Ramesh, Shri Harini
-        - An Inductive Approach for PCP	Joshi, Alark
+        - Engaging Data-Art: Conducting a Public Hands-On Workshop,	Jonathan Roberts
+        - Challenges and Opportunities of Teaching Data Visualization Together with Data Science,	Shri Harini Ramesh
+        - An Inductive Approach for PCP,	Alark Joshi
         	
 
 Block 2: (10:15 am to 11:30 am)
    - Paper Session 2:
-        - AdVizor: Using Visual Explanations to Guide Data-Driven Student Advising	Zhao, Zixin
-        - What Can Educational Science Offer Visualization? A Reflective Essay	Besançon, Lonni
-        - Teaching Information Visualization through Situated Design: Case Studies from the Classroom	Kosminsky, Doris (online) 
-        - Developing a Robust Cartography Curriculum to Train the Professional Cartographer	Nelson, Jonathan (online) 
-        - Space to Teach: Content-Rich Canvases for Visually-Intensive Education	Harden, Jesse (online) 
+        - AdVizor: Using Visual Explanations to Guide Data-Driven Student Advising, Zixin Zhao
+        - What Can Educational Science Offer Visualization? A Reflective Essay, Lonni Besançon
+        - Teaching Information Visualization through Situated Design: Case Studies from the Classroom,	Doris Kosminsky (online) 
+        - Developing a Robust Cartography Curriculum to Train the Professional Cartographer, Jonathan	Nelson (online) 
+        - Space to Teach: Content-Rich Canvases for Visually-Intensive Education, Jesse	Harden (online) 
    - Forming Working Groups
 
 Block 3: (1:30 pm to 2:45 pm)
    - Education Report Session + Panel
-        - [Implementing the Solution Framework in a Social Impact Project](https://nightingaledvs.com/implementing-the-solution-framework/?utm_source=DVS+members&utm_campaign=01d942263b-EMAIL_CAMPAIGN_2024_09_12_10_23&utm_medium=email&utm_term=0_22843b2bbe-277ed20f77-%5BLIST_EMAIL_ID%5D&mc_cid=01d942263b&mc_eid=bb5c31f904)	Muñoz, Victor (Online) 
-        - Visualization Software: How to Select the Right Software for Teaching Visualization	Ray, Sanjog (Online)
-        - What makes school visits to digital science centers successful? 	Göransson, Andreas (Online)
-        - TellUs – Leveraging the power of LLMs with visualization to benefit science centers	Besançon, Lonni
-        - Beyond storytelling with data: Guidelines for designing exploratory visualizations	Frazier, Jennifer
-        - Tracing Carbon: Visualization for Systems Thinking	Konard Schnoborn
+        - [Implementing the Solution Framework in a Social Impact Project](https://nightingaledvs.com/implementing-the-solution-framework/?utm_source=DVS+members&utm_campaign=01d942263b-EMAIL_CAMPAIGN_2024_09_12_10_23&utm_medium=email&utm_term=0_22843b2bbe-277ed20f77-%5BLIST_EMAIL_ID%5D&mc_cid=01d942263b&mc_eid=bb5c31f904), Victor Muñoz (Online) 
+        - Visualization Software: How to Select the Right Software for Teaching Visualization,	Sanjog Ray (Online)
+        - What makes school visits to digital science centers successful? 	Andreas Göransson (Online)
+        - TellUs – Leveraging the power of LLMs with visualization to benefit science centers, Lonni	Besançon
+        - Beyond storytelling with data: Guidelines for designing exploratory visualizations, Jennifer	Frazier
+        - Tracing Carbon: Visualization for Systems Thinking,	Konard Schnoborn
    - Working Group Discussions 
 
 Block 4: (3:15 pm to 4:30 pm)
