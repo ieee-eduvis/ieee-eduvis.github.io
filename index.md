@@ -26,19 +26,19 @@ The workshop is scheduled for Sunday October 13th.
    - Paper Session 2:
         - AdVizor: Using Visual Explanations to Guide Data-Driven Student Advising, Zixin Zhao
         - What Can Educational Science Offer Visualization? A Reflective Essay, Lonni Besançon
-        - Teaching Information Visualization through Situated Design: Case Studies from the Classroom,	Doris Kosminsky (online) 
-        - Developing a Robust Cartography Curriculum to Train the Professional Cartographer, Jonathan	Nelson (online) 
-        - Space to Teach: Content-Rich Canvases for Visually-Intensive Education, Jesse	Harden (online) 
+        - Teaching Information Visualization through Situated Design: Case Studies from the Classroom,	Doris Kosminsky 
+        - Developing a Robust Cartography Curriculum to Train the Professional Cartographer, Jonathan	Nelson  
+        - Space to Teach: Content-Rich Canvases for Visually-Intensive Education, Jesse	Harden 
    - Forming Working Groups
 
 **Block 3**: (1:30 pm to 2:45 pm)
    - Education Report Session + Panel
-        - [Implementing the Solution Framework in a Social Impact Project](https://nightingaledvs.com/implementing-the-solution-framework/?utm_source=DVS+members&utm_campaign=01d942263b-EMAIL_CAMPAIGN_2024_09_12_10_23&utm_medium=email&utm_term=0_22843b2bbe-277ed20f77-%5BLIST_EMAIL_ID%5D&mc_cid=01d942263b&mc_eid=bb5c31f904), Victor Muñoz (Online) 
-        - Visualization Software: How to Select the Right Software for Teaching Visualization,	Sanjog Ray (Online)
-        - What makes school visits to digital science centers successful? 	Andreas Göransson (Online)
+        - [Implementing the Solution Framework in a Social Impact Project](https://nightingaledvs.com/implementing-the-solution-framework/?utm_source=DVS+members&utm_campaign=01d942263b-EMAIL_CAMPAIGN_2024_09_12_10_23&utm_medium=email&utm_term=0_22843b2bbe-277ed20f77-%5BLIST_EMAIL_ID%5D&mc_cid=01d942263b&mc_eid=bb5c31f904), Victor Muñoz 
+        - Visualization Software: How to Select the Right Software for Teaching Visualization,	Sanjog Ray 
+        - What makes school visits to digital science centers successful? 	Andreas Göransson 
         - [Beyond storytelling with data: Guidelines for designing exploratory visualizations](https://nightingaledvs.com/beyond-storytelling-with-data-guidelines/), Jennifer	Frazier
         - TellUs – Leveraging the power of LLMs with visualization to benefit science centers, Lonni	Besançon
-        - Tracing Carbon: Visualization for Systems Thinking,	Konard Schnoborn
+        - Tracing Carbon: Visualization for Systems Thinking,	Konrad Schonborn
    - Working Group Discussions 
 
 **Block 4**: (3:15 pm to 4:30 pm) (Session Chair: Jonathan Roberts)
