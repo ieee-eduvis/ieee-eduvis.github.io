@@ -9,14 +9,13 @@ This is the second IEEE VIS EduVis Workshop on Visualization Education, Literacy
 
 The full workshop proposal is available <a href="IEEE-EduVis-Workshop-2024.pdf" class="image fit"> here</a>.
 
-
 ## Program
 
 The workshop is scheduled for Sunday October 13th.
 
 **Block 1**: (8:30 am to 9:45 am)
-   - Workshop Opening & Outline
-   - Keynote: [Kate Farrell](https://www.de.ed.ac.uk/people/kate-farrell), Director of Curriculum Development and Professional Learning, Data Education in Schools, The University of Edinburgh
+   - Workshop Opening & Outline (Fateme Rajabiyazdi)
+   - Keynote: [Kate Farrell](https://www.de.ed.ac.uk/people/kate-farrell), Director of Curriculum Development and Professional Learning, Data Education in Schools, The University of Edinburgh (Chairs: Ben Bach & Alon Friedman)
    - Paper Session 1:
         - Engaging Data-Art: Conducting a Public Hands-On Workshop,	Jonathan Roberts
         - Challenges and Opportunities of Teaching Data Visualization Together with Data Science,	Shri Harini Ramesh
@@ -42,14 +41,14 @@ The workshop is scheduled for Sunday October 13th.
         - Tracing Carbon: Visualization for Systems Thinking,	Konard Schnoborn
    - Working Group Discussions 
 
-**Block 4**: (3:15 pm to 4:30 pm)
+**Block 4**: (3:15 pm to 4:30 pm) (Session Chair: Jonathan Roberts)
    - Working Group Discussions
-   - Group Repors
+   - Group Reports
    - Wrap Up
 
-Attendance:
+**Attendance:**
 
-If you wish to join us online, please register for the Virtual Participation ($20): (https://ieeevis.org/year/2024/info/registration/conference-registration)
+If you wish to join us online, please register for the Virtual Participation ($20): [Registeration](https://ieeevis.org/year/2024/info/registration/conference-registration)
 
 If you are attending VIS in person, we will see you there.
 
