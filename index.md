@@ -11,7 +11,7 @@ The full workshop proposal is available <a href="IEEE-EduVis-Workshop-2024.pdf" 
 
 ## Program
 
-The workshop is scheduled for Sunday, October 13th.
+The workshop is scheduled for Sunday, October 13th (8:30 am ET - 15:00 ET).
 
 **Block 1**: (8:30 am to 9:45 am ET)
    - Workshop Opening & Outline (Fateme Rajabiyazdi)
