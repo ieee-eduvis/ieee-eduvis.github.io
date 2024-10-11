@@ -13,41 +13,43 @@ The full workshop proposal is available <a href="IEEE-EduVis-Workshop-2024.pdf" 
 
 The workshop is scheduled for Sunday, October 13th (8:30 am ET - 15:00 ET).
 
-**Block 1**: (8:30 am to 9:45 am ET)
-   - Workshop Opening & Outline (Fateme Rajabiyazdi)
-   - Keynote: [Kate Farrell](https://www.de.ed.ac.uk/people/kate-farrell), Director of Curriculum Development and Professional Learning, Data Education in Schools (Chair: Ben Bach)<br>
-      **Bio:** Kate Farrell works on the Data Education in Schools project developing and delivering professional learning workshops for teachers and creating data literacy and data science activities for Primary and Secondary learners.  Kate led the team creating the national Secondary school qualifications in Data Science in Scotland.  She advised on the Computing Science outcomes in the Scottish Curriculum, co-wrote a guide for Primary and Early Years (K-6) on teaching data literacy and developed new badge activities in computational thinking with Girl Guiding.  Kate is constantly amazed she gets to have fun creating data literacy escape rooms, puzzles, games and unplugged activities.  Recently, she has been also finding her degree in AI gained in the ‘dark ages of AI’ is becoming useful as the team work on AI literacy activities and resources.<br>
+**Block 1**: (8:30 am to 9:45 am ET)<br>
+
+Workshop Opening & Outline (Fateme Rajabiyazdi)<br>
+
+Keynote: [Kate Farrell](https://www.de.ed.ac.uk/people/kate-farrell), Director of Curriculum Development and Professional Learning, Data Education in Schools (Chair: Ben Bach)<br><br>
+      **Bio:** Kate Farrell works on the Data Education in Schools project developing and delivering professional learning workshops for teachers and creating data literacy and data science activities for Primary and Secondary learners.  Kate led the team creating the national Secondary school qualifications in Data Science in Scotland.  She advised on the Computing Science outcomes in the Scottish Curriculum, co-wrote a guide for Primary and Early Years (K-6) on teaching data literacy and developed new badge activities in computational thinking with Girl Guiding.  Kate is constantly amazed she gets to have fun creating data literacy escape rooms, puzzles, games and unplugged activities.  Recently, she has been also finding her degree in AI gained in the ‘dark ages of AI’ is becoming useful as the team work on AI literacy activities and resources.<br><br>
       **Talk**: Investigate ways to get creative with data literacy with children and young people through hands-on data visualisation activities that have been developed and used with thousands of learners across Scotland and worldwide. Activities will include a zero-waste data physicalisation activity (“Fizzy Data”), a large-scale participatory data weaving activity, a set of mindful drawing activities and an interactive online activity encoding your personal data into digital art. We will finish by looking at further possibilities for representing data through non-traditional creative media, such as embroidery, 3-D printing, and playdough, with an emphasis on sustainability.
 
-   - Paper Session 1: Teaching Data Visualization (Chair: Jonathan Roberts)
-        - Challenges and Opportunities of Teaching Data Visualization Together with Data Science,	Shri Harini Ramesh
-        - Developing a Robust Cartography Curriculum to Train the Professional Cartographer, Jonathan	Nelson  
-        - Tracing Carbon: Visualization for Systems Thinking, Mina Mani	
+Paper Session 1: Teaching Data Visualization (Chair: Jonathan Roberts)
+   - Challenges and Opportunities of Teaching Data Visualization Together with Data Science,	Shri Harini Ramesh
+   - Developing a Robust Cartography Curriculum to Train the Professional Cartographer, Jonathan	Nelson  
+   - Tracing Carbon: Visualization for Systems Thinking, Mina Mani	
         	
 
-**Block 2**: (10:15 am to 11:30 am ET)
-   - Paper Session 2: Experience and Engagement (Chair: Christina Stoiber)
-        - Teaching Information Visualization through Situated Design: Case Studies from the Classroom,	Renata Lopes
-        - Space to Teach: Content-Rich Canvases for Visually-Intensive Education, Jesse	Harden
-        - Engaging Data-Art: Conducting a Public Hands-On Workshop,	Jonathan Roberts
-        - What makes school visits to digital science centers successful? 	Andreas Göransson
-        - TellUs – Leveraging the power of LLMs with visualization to benefit science centers, Mathis Brossier
+**Block 2**: (10:15 am to 11:30 am ET)<br>
+Paper Session 2: Experience and Engagement (Chair: Christina Stoiber)<br>
+  - Teaching Information Visualization through Situated Design: Case Studies from the Classroom,	Renata Lopes
+  - Space to Teach: Content-Rich Canvases for Visually-Intensive Education, Jesse	Harden
+  - Engaging Data-Art: Conducting a Public Hands-On Workshop,	Jonathan Roberts
+  - What makes school visits to digital science centers successful? 	Andreas Göransson
+  - TellUs – Leveraging the power of LLMs with visualization to benefit science centers, Mathis Brossier
          
             
 
-**Block 3**: (12:00 pm to 1:15 pm ET)
-  - Paper Session 3: Visualization Processes (Chair: Jillian Aurisano)
-    - What Can Educational Science Offer Visualization? A Reflective Essay,  Konrad Schönborn 
-    - An Inductive Approach for PCP,	Alark Joshi
-    - AdVizor: Using Visual Explanations to Guide Data-Driven Student Advising, Zixin Zhao
-    - [Implementing the Solution Framework in a Social Impact Project](https://nightingaledvs.com/implementing-the-solution-framework/?utm_source=DVS+members&utm_campaign=01d942263b-EMAIL_CAMPAIGN_2024_09_12_10_23&utm_medium=email&utm_term=0_22843b2bbe-277ed20f77-%5BLIST_EMAIL_ID%5D&mc_cid=01d942263b&mc_eid=bb5c31f904), Victor Muñoz & Kevin Ford   
-    - [Beyond storytelling with data: Guidelines for designing exploratory visualizations](https://nightingaledvs.com/beyond-storytelling-with-data-guidelines/), Jennifer	Frazier
+**Block 3**: (12:00 pm to 1:15 pm ET)<br>
+Paper Session 3: Visualization Processes (Chair: Jillian Aurisano)<br>
+  - What Can Educational Science Offer Visualization? A Reflective Essay,  Konrad Schönborn 
+  - An Inductive Approach for PCP,	Alark Joshi
+  - AdVizor: Using Visual Explanations to Guide Data-Driven Student Advising, Zixin Zhao
+  - [Implementing the Solution Framework in a Social Impact Project](https://nightingaledvs.com/implementing-the-solution-framework/?utm_source=DVS+members&utm_campaign=01d942263b-EMAIL_CAMPAIGN_2024_09_12_10_23&utm_medium=email&utm_term=0_22843b2bbe-277ed20f77-%5BLIST_EMAIL_ID%5D&mc_cid=01d942263b&mc_eid=bb5c31f904), Victor Muñoz & Kevin Ford   
+  - [Beyond storytelling with data: Guidelines for designing exploratory visualizations](https://nightingaledvs.com/beyond-storytelling-with-data-guidelines/), Jennifer	Frazier
         
 
-**Block 4**: (1:45 pm to 3:00 pm ET) 
-- Session: Discussion on _Integrating AI in Data Visualizaiton Education_ (Session Chair: Mandy Keck)
-   - Working Group Discussions
-   - Wrap Up
+**Block 4**: (1:45 pm to 3:00 pm ET) <br>
+Discussion on _Integrating AI in Data Visualizaiton Education_ (Session Chair: Mandy Keck)<br>
+  - Working Group Discussions
+  - Wrap Up
 
 **Attendance:**
 
