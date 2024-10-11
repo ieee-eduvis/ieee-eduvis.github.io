@@ -15,13 +15,13 @@ The workshop is scheduled for Sunday, October 13th (8:30 am ET - 15:00 ET).
 
 **Block 1**: (8:30 am to 9:45 am ET)<br>
 
-Workshop Opening & Outline (Fateme Rajabiyazdi)<br>
+Workshop Opening & Outline (8:30 am ET- 8:40 am ET) (Fateme Rajabiyazdi)<br>
 
-Keynote: [Kate Farrell](https://www.de.ed.ac.uk/people/kate-farrell), Director of Curriculum Development and Professional Learning, Data Education in Schools (Chair: Ben Bach)<br><br>
+Keynote (8:40 am ET- 9:10 am ET): [Kate Farrell](https://www.de.ed.ac.uk/people/kate-farrell), Director of Curriculum Development and Professional Learning, Data Education in Schools (Chair: Ben Bach)<br><br>
       **Bio:** Kate Farrell works on the Data Education in Schools project developing and delivering professional learning workshops for teachers and creating data literacy and data science activities for Primary and Secondary learners.  Kate led the team creating the national Secondary school qualifications in Data Science in Scotland.  She advised on the Computing Science outcomes in the Scottish Curriculum, co-wrote a guide for Primary and Early Years (K-6) on teaching data literacy and developed new badge activities in computational thinking with Girl Guiding.  Kate is constantly amazed she gets to have fun creating data literacy escape rooms, puzzles, games and unplugged activities.  Recently, she has been also finding her degree in AI gained in the ‘dark ages of AI’ is becoming useful as the team work on AI literacy activities and resources.<br><br>
       **Talk**: Investigate ways to get creative with data literacy with children and young people through hands-on data visualisation activities that have been developed and used with thousands of learners across Scotland and worldwide. Activities will include a zero-waste data physicalisation activity (“Fizzy Data”), a large-scale participatory data weaving activity, a set of mindful drawing activities and an interactive online activity encoding your personal data into digital art. We will finish by looking at further possibilities for representing data through non-traditional creative media, such as embroidery, 3-D printing, and playdough, with an emphasis on sustainability.
 
-Paper Session 1: Teaching Data Visualization (Chair: Jonathan Roberts)
+Paper Session 1 (9:10 am ET- 9:45 am ET): Teaching Data Visualization (Chair: Jonathan Roberts)
    - Challenges and Opportunities of Teaching Data Visualization Together with Data Science,	Shri Harini Ramesh
    - Developing a Robust Cartography Curriculum to Train the Professional Cartographer, Jonathan	Nelson  
    - Tracing Carbon: Visualization for Systems Thinking, Mina Mani	
