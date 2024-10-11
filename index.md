@@ -49,7 +49,7 @@ Paper Session 3: Visualization Processes (Chair: Jillian Aurisano)<br>
 **Block 4**: (1:45 pm to 3:00 pm ET) <br>
 Discussion on _Integrating AI in Data Visualizaiton Education_ (Session Chair: Mandy Keck)<br>
   - Working Group Discussions
-  - Wrap Up
+ 
 
 **Attendance:**
 
