@@ -42,17 +42,19 @@ The workshop is scheduled for Sunday, October 13th (8:30 - 15:00 ET/UTC-4).
             
 
 **Block 3: 12:00 pm to 1:15 pm ET (UTC-4)**<br>
-Paper Session 3: Visualization Processes (Chair: Jillian Aurisano)<br>
-  - What Can Educational Science Offer Visualization? A Reflective Essay, Konrad Schönborn 
-  - An Inductive Approach for PCP,	Alark Joshi
-  - AdVizor: Using Visual Explanations to Guide Data-Driven Student Advising, Zixin Zhao
-  - [Implementing the Solution Framework in a Social Impact Project](https://nightingaledvs.com/implementing-the-solution-framework/?utm_source=DVS+members&utm_campaign=01d942263b-EMAIL_CAMPAIGN_2024_09_12_10_23&utm_medium=email&utm_term=0_22843b2bbe-277ed20f77-%5BLIST_EMAIL_ID%5D&mc_cid=01d942263b&mc_eid=bb5c31f904), Victor Muñoz & Kevin Ford   
-  - [Beyond storytelling with data: Guidelines for designing exploratory visualizations](https://nightingaledvs.com/beyond-storytelling-with-data-guidelines/), Jennifer	Frazier
+
+**Paper Session 3:** Visualization Processes (Chair: Jillian Aurisano)<br>
+  * **What Can Educational Science Offer Visualization? A Reflective Essay** Konrad Schönborn, Lonni Besançon (Vis4Ed Paper)
+  - **An Inductive Approach for PCP** -	Chandana Srinivas, Alark Joshi, Elif E. Firat, Robert S. Laramee (EduVis Paper)
+  - **AdVizor: Using Visual Explanations to Guide Data-Driven Student Advising** - Riley Wegant, Zixin Zhao, Adam Badley, Christopher Collins (Vis4Ed Paper)
+  - **[Implementing the Solution Framework in a Social Impact Project](https://nightingaledvs.com/implementing-the-solution-framework/?utm_source=DVS+members&utm_campaign=01d942263b-EMAIL_CAMPAIGN_2024_09_12_10_23&utm_medium=email&utm_term=0_22843b2bbe-277ed20f77-%5BLIST_EMAIL_ID%5D&mc_cid=01d942263b&mc_eid=bb5c31f904)** - Victor Muñoz & Kevin Ford (EduVis Report)
+  - **[Beyond storytelling with data: Guidelines for designing exploratory visualizations](https://nightingaledvs.com/beyond-storytelling-with-data-guidelines/)** - Jennifer	Frazier (Vis4Ed Report)
         
 
 **Block 4: 1:45 pm to 3:00 pm ET (UTC-4)** <br>
-Discussion on _Integrating AI in Data Visualizaiton Education_ (Session Chair: Mandy Keck)<br>
-  - Working Group Discussions
+
+**Working Group Discussions** (Session Chair: Mandy Keck)<br>
+  * _Integrating AI in Data Visualizaiton Education_ 
  
 
 **Attendance:**
