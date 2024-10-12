@@ -37,7 +37,7 @@ The workshop is scheduled for Sunday, October 13th (8:30 - 15:00 ET/UTC-4).
   * **Space to Teach: Content-Rich Canvases for Visually-Intensive Education** - Jesse	Harden (Vis4Ed Paper)
   * **Engaging Data-Art: Conducting a Public Hands-On Workshop** - Jonathan Roberts (EduVis Paper)
   * **What makes school visits to digital science centers successful?**	- Andreas Göransson, Konrad Schönborn (Vis4Ed Report)
-  * **TellUs – Leveraging the power of LLMs with visualization to benefit science centers** -  Lonni Besançon, Mathis Brossier, Omar Mena, Erik Sundén, Andreas Göransson, Anders Ynnerman, Konrad J Schönborn (Vis4Ed Report)
+  * **TellUs – Leveraging the power of LLMs with visualization to benefit science centers** -  Lonni Besançon, Mathis Brossier, Omar Mena, Erik Sundén, Andreas Göransson, Anders Ynnerman, Konrad Schönborn (Vis4Ed Report)
   * Panel Discussion
             
 
@@ -54,13 +54,13 @@ The workshop is scheduled for Sunday, October 13th (8:30 - 15:00 ET/UTC-4).
 
 **Block 4: 1:45 pm to 3:00 pm ET (UTC-4)** <br>
 
-**Working Group Discussions** (Session Chair: Mandy Keck)<br>
+**Working Group Discussions** (Session Chair: Mandy Keck)
   * _Integrating AI in Data Visualizaiton Education_ 
  
 
 **Attendance:**
 
-If you wish to join us, please register for the Virtual Participation ($20): [Registeration](https://ieeevis.org/year/2024/info/registration/conference-registration)
+If you wish to join us, please register for the Virtual Participation ($20): [Registration](https://ieeevis.org/year/2024/info/registration/conference-registration)
 
 
 
