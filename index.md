@@ -11,13 +11,13 @@ The full workshop proposal is available <a href="IEEE-EduVis-Workshop-2024.pdf" 
 
 ## Program
 
-The workshop is scheduled for Sunday, October 13th (8:30 am ET - 15:00 ET).
+The workshop is scheduled for Sunday, October 13th (8:30 am - 15:00 ET/UTC-4).
 
-**Block 1**: (8:30 am to 9:45 am ET)<br>
+**Block 1: 8:30 am to 9:45 am ET**<br>
 
-Workshop Opening & Outline (8:30 am ET- 8:40 am ET) (Fateme Rajabiyazdi)<br>
+**8:30 - 8:40:** Workshop Opening & Outline (Fateme Rajabiyazdi)<br>
 
-Keynote (8:40 am ET- 9:10 am ET): [Kate Farrell](https://www.de.ed.ac.uk/people/kate-farrell), Director of Curriculum Development and Professional Learning, Data Education in Schools (Chair: Ben Bach)<br><br>
+*8:40 - 9:10:* Keynote: **Playful data visualisations: data literacy across the school curriculum" - [Kate Farrell](https://www.de.ed.ac.uk/people/kate-farrell), Director of Curriculum Development and Professional Learning, Data Education in Schools (Chair: Benjamin Bach)<br><br>
       **Bio:** Kate Farrell works on the Data Education in Schools project developing and delivering professional learning workshops for teachers and creating data literacy and data science activities for Primary and Secondary learners.  Kate led the team creating the national Secondary school qualifications in Data Science in Scotland.  She advised on the Computing Science outcomes in the Scottish Curriculum, co-wrote a guide for Primary and Early Years (K-6) on teaching data literacy and developed new badge activities in computational thinking with Girl Guiding.  Kate is constantly amazed she gets to have fun creating data literacy escape rooms, puzzles, games and unplugged activities.  Recently, she has been also finding her degree in AI gained in the ‘dark ages of AI’ is becoming useful as the team work on AI literacy activities and resources.<br><br>
       **Talk**: Investigate ways to get creative with data literacy with children and young people through hands-on data visualisation activities that have been developed and used with thousands of learners across Scotland and worldwide. Activities will include a zero-waste data physicalisation activity (“Fizzy Data”), a large-scale participatory data weaving activity, a set of mindful drawing activities and an interactive online activity encoding your personal data into digital art. We will finish by looking at further possibilities for representing data through non-traditional creative media, such as embroidery, 3-D printing, and playdough, with an emphasis on sustainability.
 
@@ -27,7 +27,7 @@ Paper Session 1 (9:10 am ET- 9:45 am ET): Teaching Data Visualization (Chair: Jo
    - Tracing Carbon: Visualization for Systems Thinking, Mina Mani	
         	
 
-**Block 2**: (10:15 am to 11:30 am ET)<br>
+**Block 2: 10:15 am to 11:30 am ET**<br>
 Paper Session 2: Experience and Engagement (Chair: Christina Stoiber)<br>
   - Teaching Information Visualization through Situated Design: Case Studies from the Classroom,	Renata Lopes
   - Space to Teach: Content-Rich Canvases for Visually-Intensive Education, Jesse	Harden
@@ -37,7 +37,7 @@ Paper Session 2: Experience and Engagement (Chair: Christina Stoiber)<br>
          
             
 
-**Block 3**: (12:00 pm to 1:15 pm ET)<br>
+**Block 3: 12:00 pm to 1:15 pm ET**<br>
 Paper Session 3: Visualization Processes (Chair: Jillian Aurisano)<br>
   - What Can Educational Science Offer Visualization? A Reflective Essay,  Konrad Schönborn 
   - An Inductive Approach for PCP,	Alark Joshi
@@ -46,7 +46,7 @@ Paper Session 3: Visualization Processes (Chair: Jillian Aurisano)<br>
   - [Beyond storytelling with data: Guidelines for designing exploratory visualizations](https://nightingaledvs.com/beyond-storytelling-with-data-guidelines/), Jennifer	Frazier
         
 
-**Block 4**: (1:45 pm to 3:00 pm ET) <br>
+**Block 4: 1:45 pm to 3:00 pm ET** <br>
 Discussion on _Integrating AI in Data Visualizaiton Education_ (Session Chair: Mandy Keck)<br>
   - Working Group Discussions
  
