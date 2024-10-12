@@ -38,18 +38,19 @@ The workshop is scheduled for Sunday, October 13th (8:30 - 15:00 ET/UTC-4).
   * **Engaging Data-Art: Conducting a Public Hands-On Workshop** - Jonathan Roberts (EduVis Paper)
   * **What makes school visits to digital science centers successful?**	- Andreas Göransson, Konrad Schönborn (Vis4Ed Report)
   * **TellUs – Leveraging the power of LLMs with visualization to benefit science centers** -  Lonni Besançon, Mathis Brossier, Omar Mena, Erik Sundén, Andreas Göransson, Anders Ynnerman, Konrad J Schönborn (Vis4Ed Report)
-
+  * Panel Discussion
             
 
 **Block 3: 12:00 pm to 1:15 pm ET (UTC-4)**<br>
 
 **Paper Session 3:** Visualization Processes (Chair: Jillian Aurisano)<br>
   * **What Can Educational Science Offer Visualization? A Reflective Essay** Konrad Schönborn, Lonni Besançon (Vis4Ed Paper)
-  - **An Inductive Approach for PCP** -	Chandana Srinivas, Alark Joshi, Elif E. Firat, Robert S. Laramee (EduVis Paper)
-  - **AdVizor: Using Visual Explanations to Guide Data-Driven Student Advising** - Riley Wegant, Zixin Zhao, Adam Badley, Christopher Collins (Vis4Ed Paper)
-  - **[Implementing the Solution Framework in a Social Impact Project](https://nightingaledvs.com/implementing-the-solution-framework/?utm_source=DVS+members&utm_campaign=01d942263b-EMAIL_CAMPAIGN_2024_09_12_10_23&utm_medium=email&utm_term=0_22843b2bbe-277ed20f77-%5BLIST_EMAIL_ID%5D&mc_cid=01d942263b&mc_eid=bb5c31f904)** - Victor Muñoz & Kevin Ford (EduVis Report)
-  - **[Beyond storytelling with data: Guidelines for designing exploratory visualizations](https://nightingaledvs.com/beyond-storytelling-with-data-guidelines/)** - Jennifer	Frazier (Vis4Ed Report)
-        
+  * **An Inductive Approach for PCP** -	Chandana Srinivas, Alark Joshi, Elif E. Firat, Robert S. Laramee (EduVis Paper)
+  * **AdVizor: Using Visual Explanations to Guide Data-Driven Student Advising** - Riley Wegant, Zixin Zhao, Adam Badley, Christopher Collins (Vis4Ed Paper)
+  * **[Implementing the Solution Framework in a Social Impact Project](https://nightingaledvs.com/implementing-the-solution-framework/?utm_source=DVS+members&utm_campaign=01d942263b-EMAIL_CAMPAIGN_2024_09_12_10_23&utm_medium=email&utm_term=0_22843b2bbe-277ed20f77-%5BLIST_EMAIL_ID%5D&mc_cid=01d942263b&mc_eid=bb5c31f904)** - Victor Muñoz & Kevin Ford (EduVis Report)
+  * **[Beyond storytelling with data: Guidelines for designing exploratory visualizations](https://nightingaledvs.com/beyond-storytelling-with-data-guidelines/)** - Jennifer	Frazier (Vis4Ed Report)
+  * Panel Discussion
+
 
 **Block 4: 1:45 pm to 3:00 pm ET (UTC-4)** <br>
 
