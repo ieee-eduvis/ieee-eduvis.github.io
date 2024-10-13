@@ -25,7 +25,7 @@ The workshop is scheduled for Sunday, October 13th (8:30 - 15:00 ET/UTC-4).
 
    * **Challenges and Opportunities of Teaching Data Visualization Together with Data Science** - Shri Harini Ramesh, Fateme Rajabiyazdi (EduVis General Paper)
    * **Developing a Robust Cartography Curriculum to Train the Professional Cartographer** - Jonathan	Nelson (EduVis General Paper)
-   * **Tracing Carbon: Visualization for Systems Thinking** - Mina Mani, Konrad Schönborn (Vis4Ed Report)
+   * **[Tracing Carbon: Visualization for Systems Thinking](https://nightingaledvs.com/tracing-carbon-visualization-for-systems-thinking/)** - Mina Mani, Konrad Schönborn (Vis4Ed Report)
    * Panel Discussion
         	
 
