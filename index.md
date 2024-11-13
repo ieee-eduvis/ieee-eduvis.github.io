@@ -10,7 +10,7 @@ This is the second IEEE VIS EduVis Workshop on Visualization Education, Literacy
 The full workshop proposal is available <a href="IEEE-EduVis-Workshop-2024.pdf" class="image fit"> here</a>.
 
 ## IEEE Xplore Proceeding
-The [2024 IEEE VIS Workshop on Visualization Education, Literacy, and Activities (EduVIS)](https://ieeexplore.ieee.org/servlet/opac?punumber=10747654") has been posted to the IEEE Xplore digital library.
+The [2024 IEEE VIS Workshop on Visualization Education, Literacy, and Activities (EduVIS)](https://ieeexplore.ieee.org/servlet/opac?punumber=10747654) has been posted to the IEEE Xplore digital library.
 
 ## Program
 
