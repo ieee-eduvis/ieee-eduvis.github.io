@@ -7,7 +7,7 @@ layout: default
 This is the 3<sup>rd</sup> workshop on visualization education, literacy, and activities. This half-day workshop happens with the [IEEE VIS 2025](https://ieeevis.org/year/2025/welcome) conference in Vienna (Austria).
 The workshop aims to become the primary forum to share and discuss advances, challenges, and methods at the intersection of visualization and education. It addresses an interdisciplinary audience from and beyond visualization, education, learning analytics, science communication, arts and design, psychology, or people from adjacent fields such as data science and HCI.
 
-In its 3rd edition, we introduce annual spotlight topics, with this year’s topic being **Modalities of learning and engaging**. This also includes topics of education for visualization (ed4vis) as well as visualization for education (vis4ed). It will include presentations of **research papers** published in the IEEE Xplore library, **educator reports** published in the Nightingale Magazine, and discussion through **working groups**. We want to establish “Vis Activity groups” to focus on hands-on engagement with visualization games and playful learning activities, building on the success of the hands-on formats of CHI PLAY and CHI. “Discussion groups” will provide a structured space for in-depth conversations on different topics.
+In its 3rd edition, we introduce annual spotlight topics, with this year’s topic being **Modalities of learning and engaging**. This also includes topics of education for visualization (ed4vis) as well as visualization for education (vis4ed). It will include presentations of **research papers** published in the IEEE Xplore library, **educator reports** published in the Nightingale Magazine, and discussion and vis activities in **working groups**.
 
 The full workshop proposal is available [here](IEEE-EduVis-Workshop-2025.pdf).
 
@@ -73,4 +73,4 @@ Submissions will be accepted through [PCS](https://new.precisionconference.com/)
 * [Jonathan C. Roberts](https://www.bangor.ac.uk/computer-science-and-electronic-engineering/staff/jonathan-roberts/en), Bangor University
 * [Lonni Besançon](https://lonnibesancon.me/), Linköping University
 * [Mathis Brossier](https://liu.se/en/employee/matbr31), Linköping University
-* [Benjamin Bach](http://benjbach.net), University of Edinburgh
+* [Benjamin Bach](http://benjbach.net), Inria Bordeaux
