@@ -58,7 +58,7 @@ At least one author for each paper or educator report must register and attend t
 
 All deadlines are at 11:59pm (23:59) AoE ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
 
-* ~July 1, 2025~ _extended to_ **July 10, 2025**: Paper and Educator Report Submission
+* ~~July 1, 2025~~ _extended to_ **July 10, 2025**: Paper and Educator Report Submission
 * August 1, 2025: Author Notification
 * August 15, 2025: Camera-ready Submission
 
