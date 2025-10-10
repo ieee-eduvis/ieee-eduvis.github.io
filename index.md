@@ -19,22 +19,22 @@ _Presentations last 5 mins followed by 2 mins of Q&A_.
 
 **9:00 - 9:15:** Workshop Opening & Outline (Christina Stoiber)<br>
 
-**9:15 - 9:30: Paper Session 1:** Media, Tangibles & Representation (Chair: TBA)<br>
+**9:15 - 9:30: Paper Session 1:** Media, Tangibles & Representation (Chair: Mathis Brossier)<br>
 
 * **Teaching Air Quality and Data Visualization Using Tangible Models for Middle Schoolers** - Yixuan Li, Alex Endert, Jessica Roberts
 * **Representational Affordances: Teaching Data Visualization across Print, Digital, and Physical Media** - Yvette Shen
 
-**09:30 - 09:45: Paper Session 2:** Pedagogy, Critical Thinking & Classroom Practice (Chair: TBA)<br>
+**09:30 - 09:45: Paper Session 2:** Pedagogy, Critical Thinking & Classroom Practice (Chair: Lonni Besancon)<br>
 
 * **From Data to Insight: Using Contextual Scenarios to Teach Critical Thinking in Data Visualisation** - Jonathan C Roberts, Dr Peter W. S. Butcher, Panagiotis D. Ritsos
 * **Examining a PCP Intervention through the Anderson and Krathwohl Taxonomy Lens** - Chandana Srinivas, Bhavi Kenia, Kelsey Urgo, Elif E. Firat, Robert S. Laramee, Alark Joshi
 
-**09:45 - 10:00: Paper Session 3:** Frameworks & Methodologies for Visualization Education (Chair: TBA)<br>
+**09:45 - 10:00: Paper Session 3:** Frameworks & Methodologies for Visualization Education (Chair: Jonathan Roberts)<br>
 
 * **Bridging Educational Theories of Cognitive Load to Visualization Design and Evaluation** - Anne-Flore Cabouat, Lorenzo Ciccione, Samuel Huron, Tobias Isenberg, Petra Isenberg
 * **An Emergent Design Study Methodology for Education: Reflections on the Robin System for Visualizing U.S. Migration Data** - Alexander Bendeck, Clio Andri, John Stasko
 
-**10:00 - 10:30: Educator reports** (Chair: TBA)<br>
+**10:00 - 10:30: Educator reports** (Chair: Magdalena Boucher)<br>
 
 _2 mins elevator pitch for each educator report followed by a grouped panel discussion._
 
@@ -47,7 +47,7 @@ _2 mins elevator pitch for each educator report followed by a grouped panel disc
 
 **10:30 - 11:00** Coffee break.
 
-**11:00 - 12:30: Working Group Discussions** (Session Chair: TBA)
+**11:00 - 12:30: Working Group Activities and Discussions** (Session Chair: TBA)
 * _Seeing Speed: A Classroom Challenge in Color Mapping and Meaning._
 
 ## Workshop goals and scope of topics
