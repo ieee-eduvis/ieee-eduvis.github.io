@@ -39,7 +39,7 @@ _Presentations last 5 mins followed by 2 mins of Q&A_.
 _2 mins elevator pitch for each educator report followed by a grouped panel discussion._
 
 * **Learning to Read Academic Papers by Making Data Comics** - Alyxander Burns
-* **Seeing Speed: A Classroom Challenge in Color Mapping and Meaning** - Evan Peck
+<!-- * **Seeing Speed: A Classroom Challenge in Color Mapping and Meaning** - Evan Peck -->
 * **[Exploring Data Detective Practices as a Class Activity](https://nightingaledvs.com/exploring-data-detective-practices-as-a-class-activity/)** - Ruishan Wu, Zezhong Wang, Haidan Liu, Krithika Balasubramanyam, Kanak Gautam, Aham Gupta, Shannon McAllister, Sheelagh Carpendale
 * **Teaching Critical Visualization: a field report** - Andrew M McNutt, Shiyi He, Sujit Kumar, Purbid Bambroo, Nastaran Jadidi, John Bovard, Chang Han
 * **Building an Explorable Explainer for Parallel Coordinates** - Keith Andrews, Romana Gruber
@@ -48,7 +48,7 @@ _2 mins elevator pitch for each educator report followed by a grouped panel disc
 **10:30 - 11:00** Coffee break.
 
 **11:00 - 12:30: Working Group Activities and Discussions** (Session Chair: TBA)
-* _Seeing Speed: A Classroom Challenge in Color Mapping and Meaning._
+<!-- * _Seeing Speed: A Classroom Challenge in Color Mapping and Meaning._ -->
 
 ## Workshop goals and scope of topics
 
