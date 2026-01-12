@@ -9,7 +9,7 @@ The workshop aims to become the primary forum to share and discuss advances, cha
 
 In its 3rd edition, we introduce annual spotlight topics, with this year’s topic being **Modalities of learning and engaging**. This also includes topics of education for visualization (ed4vis) as well as visualization for education (vis4ed). It will include presentations of **research papers** published in the IEEE Xplore library, **educator reports** published in the Nightingale Magazine, and discussion and vis activities in **working groups**.
 
-The full workshop proposal is available [here](IEEE-EduVis25-Workshop-2025.pdf).
+The full workshop proposal is available [here](IEEE-EduVis-Workshop-2025.pdf).
 
 ## IEEE Xplore Proceeding
 The [2025 IEEE VIS Workshop on Visualization Education, Literacy, and Activities (EduVIS)](https://doi.org/10.1109/EduVis69391.2025) has been posted to the IEEE Xplore digital library.
