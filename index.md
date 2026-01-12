@@ -11,6 +11,9 @@ In its 3rd edition, we introduce annual spotlight topics, with this year’s top
 
 The full workshop proposal is available [here](IEEE-EduVis25-Workshop-2025.pdf).
 
+## IEEE Xplore Proceeding
+The [2025 IEEE VIS Workshop on Visualization Education, Literacy, and Activities (EduVIS)](https://doi.org/10.1109/EduVis69391.2025) has been posted to the IEEE Xplore digital library.
+
 ## Program
 
 The workshop is scheduled for Monday, November 3 (9:00 - 12:30 GMT+1).<br>
