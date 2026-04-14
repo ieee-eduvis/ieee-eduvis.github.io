@@ -74,6 +74,7 @@ With this workshop, we want to achieve the following goals:
 
 The **workshop topics** include, but are not limited to:
 
+* Inclusivity & accessibility in teaching
 * Modalities (e.g., videos, comics, serious games)
 * Visualization Activities & Games
 * Engagement with visualizations
@@ -86,10 +87,10 @@ The **workshop topics** include, but are not limited to:
 * Reflective and research practices
 * Understanding audiences
 * Guidelines, strategies, and guidance for education
-* Debate and discussions on visualization guidelines and well-established knowledge
+* Discussions on guidelines and well-established knowledge
 * Challenges and personal experiences
 * Experiential learning (hands-on learning and physicalization)
-* Visualizations for public education (e.g., health education, science communication)
+* Visualizations for public education
 * Teaching to encourage creativity and design critique
 * Accessibility of visualization learning resources
 
