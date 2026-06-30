@@ -108,8 +108,8 @@ At least one author for each paper or educator report must register and attend t
 
 All deadlines are at 11:59pm (23:59) AoE ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
 
-* July 3, 2026: Paper and Educator Report Submission
-* July 27, 2026: Author Notification
+* ~~July 3, 2026~~ **extended to July 10, 2026**: Paper and Educator Report Submission
+* ~~July 27, 2026~~ **extended to July 30, 2026**: Author Notification
 * August 14, 2026: Camera-ready Submission
 
 Submissions will be accepted through [PCS](https://new.precisionconference.com/submissions).
