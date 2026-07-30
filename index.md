@@ -14,53 +14,31 @@ In its 4<sup>th</sup> edition, the workshop's annual spotlight topic is **Equali
 <!-- ## IEEE Xplore Proceeding -->
 <!-- The [2025 IEEE VIS Workshop on Visualization Education, Literacy, and Activities (EduVIS)](https://doi.org/10.1109/EduVis69391.2025) has been posted to the IEEE Xplore digital library. -->
 
-<!-- ## Program -->
+## Mode of Attendance
 
-<!-- The workshop is scheduled for Monday, November 3 (9:00 - 12:30 GMT+1).<br> -->
+The workshop can be attended either in person in Boston or online.
+Please note that satellite events do not offer in-person attendance for this workshop—authors attending via a satellite event will participate online only.
+We will provide a link to attend the workshop online here on the website.
 
-<!-- _Presentations last 5 mins followed by 2 mins of Q&A_. -->
+The workshop will happen on **Monday, November 9, 2026  8:00 AM - 11:30 PM (EST).**
+See the Week at a Glance program for more information: <https://ieeevis.org/year/2026/info/program/week-at-a-glance>
 
-<!-- **9:00 - 9:15:** Workshop Opening & Outline (Christina Stoiber)<br> -->
+## Program
 
-<!-- **9:15 - 9:30: Paper Session 1:** Media, Tangibles & Representation (Chair: Mathis Brossier)<br> -->
+**8:00 - 8:15:** Workshop opening & Outline<br>
+
+**8:15 - 9:30:** Paper session<br>
 
 <!-- * **Teaching Air Quality and Data Visualization Using Tangible Models for Middle Schoolers** - Yixuan Li, Alex Endert, Jessica Roberts -->
   <!-- <a class="dl-pdf" href="/assets/2025/eduvis25-li.pdf"><img src="/assets/img/pdf-icon.svg" alt="download PDF" /></a> -->
 <!-- * **Representational Affordances: Teaching Data Visualization across Print, Digital, and Physical Media** - Yvette Shen -->
   <!-- <a class="dl-pdf" href="/assets/2025/eduvis25-shen.pdf"><img src="/assets/img/pdf-icon.svg" alt="download PDF" /></a> -->
 
-<!-- **09:30 - 09:45: Paper Session 2:** Pedagogy, Critical Thinking & Classroom Practice (Chair: Lonni Besancon)<br> -->
+**09:30 - 10:00:** Morning coffee break<br>
 
-<!-- * **From Data to Insight: Using Contextual Scenarios to Teach Critical Thinking in Data Visualisation** - Jonathan C Roberts, Dr Peter W. S. Butcher, Panagiotis D. Ritsos -->
-  <!-- <a class="dl-pdf" href="/assets/2025/eduvis25-roberts.pdf"><img src="/assets/img/pdf-icon.svg" alt="download PDF" /></a> -->
-<!-- * **Examining a PCP Intervention through the Anderson and Krathwohl Taxonomy Lens** - Chandana Srinivas, Bhavi Kenia, Kelsey Urgo, Elif E. Firat, Robert S. Laramee, Alark Joshi -->
-  <!-- <a class="dl-pdf" href="/assets/2025/eduvis25-srinivas.pdf"><img src="/assets/img/pdf-icon.svg" alt="download PDF" /></a> -->
+**10:00 - 11:15:** Poster-style discussion session<br>
 
-<!-- **09:45 - 10:00: Paper Session 3:** Frameworks & Methodologies for Visualization Education (Chair: Jonathan Roberts)<br> -->
-
-<!-- * **Bridging Educational Theories of Cognitive Load to Visualization Design and Evaluation** - Anne-Flore Cabouat, Lorenzo Ciccione, Samuel Huron, Tobias Isenberg, Petra Isenberg -->
-  <!-- <a class="dl-pdf" href="/assets/2025/eduvis25-cabouat.pdf"><img src="/assets/img/pdf-icon.svg" alt="download PDF" /></a> -->
-<!-- * **An Emergent Design Study Methodology for Education: Reflections on the Robin System for Visualizing U.S. Migration Data** - Alexander Bendeck, Clio Andri, John Stasko -->
-  <!-- <a class="dl-pdf" href="/assets/2025/eduvis25-bendeck.pdf"><img src="/assets/img/pdf-icon.svg" alt="download PDF" /></a> -->
-
-<!-- **10:00 - 10:30: Educator reports** (Chair: Magdalena Boucher)<br> -->
-
-<!-- _2 mins elevator pitch for each educator report followed by a grouped panel discussion._ -->
-
-<!-- * <a class="dl-pdf" href="/assets/2025/eduvis25-burns.pdf"><img src="/assets/img/pdf-icon.svg" alt="download PDF" /></a> -->
-  <!-- **Learning to Read Academic Papers by Making Data Comics** - Alyxander Burns -->
-<!-- * **Seeing Speed: A Classroom Challenge in Color Mapping and Meaning** - Evan Peck -->
-<!-- * <a class="dl-pdf" href="/assets/2025/eduvis25-wu.pdf"><img src="/assets/img/pdf-icon.svg" alt="download PDF" /></a> -->
-  <!-- **[Exploring Data Detective Practices as a Class Activity](https://nightingaledvs.com/exploring-data-detective-practices-as-a-class-activity/)** - Ruishan Wu, Zezhong Wang, Haidan Liu, Krithika Balasubramanyam, Kanak Gautam, Aham Gupta, Shannon McAllister, Sheelagh Carpendale -->
-<!-- * <a class="dl-pdf" href="/assets/2025/eduvis25-mcnutt.pdf"><img src="/assets/img/pdf-icon.svg" alt="download PDF" /></a> -->
-  <!-- **Teaching Critical Visualization: a field report** - Andrew M McNutt, Shiyi He, Sujit Kumar, Purbid Bambroo, Nastaran Jadidi, John Bovard, Chang Han -->
-<!-- * <a class="dl-pdf" href="/assets/2025/eduvis25-andrews.pdf"><img src="/assets/img/pdf-icon.svg" alt="download PDF" /></a> -->
-  <!-- **Building an Explorable Explainer for Parallel Coordinates** - Keith Andrews, Romana Gruber -->
-<!-- * **Panel discussion** (10 mins) -->
-
-<!-- **10:30 - 11:00** Coffee break. -->
-
-<!-- **11:00 - 12:30: Working Group Activities and Discussions** -->
+**11:15 - 11:30:** Closing<br>
 
 ## Workshop goals and scope of topics
 
@@ -108,9 +86,9 @@ At least one author for each paper or educator report must register and attend t
 
 All deadlines are at 11:59pm (23:59) AoE ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
 
-* ~~July 3, 2026~~ **extended to July 10, 2026**: Paper and Educator Report Submission
-* ~~July 27, 2026~~ **extended to July 30, 2026**: Author Notification
-* August 14, 2026: Camera-ready Submission
+* ~~July 3, 2026 extended to July 10, 2026: Paper and Educator Report Submission~~
+* ~~July 27, 2026 extended to July 30, 2026: Author Notification~~
+* **August 14, 2026: Camera-ready Submission**
 
 Submissions will be accepted through [PCS](https://new.precisionconference.com/submissions).
 
