@@ -7,3 +7,7 @@
   height: 1rem;
   margin-bottom: -0.2rem;
 }
+
+footer {
+  z-index: -1; // there is a bug where the footer text appears on top of the nav. I couldn't reproduce it, but at least this puts the footer under the nav so it is still interactive.
+}
