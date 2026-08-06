@@ -9,7 +9,7 @@ The EduVis workshop aims to become the primary forum to share and discuss advanc
 
 In its 4<sup>th</sup> edition, the workshop's annual spotlight topic is **Equality, Diversity, and Inclusion (EDI)** in education and data visualization. It includes presentations of **research papers** published in the IEEE Xplore library, **educator reports** published in the Nightingale Magazine, and **poster-style discussions including** vis activities.
 
-<!-- The full workshop proposal is available [here](IEEE-EduVis-Workshop-2025.pdf). -->
+The full workshop proposal is available [here](IEEE-EduVis-Workshop-2026.pdf).
 
 <!-- ## IEEE Xplore Proceeding -->
 <!-- The [2025 IEEE VIS Workshop on Visualization Education, Literacy, and Activities (EduVIS)](https://doi.org/10.1109/EduVis69391.2025) has been posted to the IEEE Xplore digital library. -->
