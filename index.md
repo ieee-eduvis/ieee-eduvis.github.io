@@ -29,14 +29,27 @@ See the Week at a Glance program for more information: <https://ieeevis.org/year
 
 **8:15 - 9:30:** Paper session<br>
 
-<!-- * **Teaching Air Quality and Data Visualization Using Tangible Models for Middle Schoolers** - Yixuan Li, Alex Endert, Jessica Roberts -->
-  <!-- <a class="dl-pdf" href="/assets/2025/eduvis25-li.pdf"><img src="/assets/img/pdf-icon.svg" alt="download PDF" /></a> -->
-<!-- * **Representational Affordances: Teaching Data Visualization across Print, Digital, and Physical Media** - Yvette Shen -->
-  <!-- <a class="dl-pdf" href="/assets/2025/eduvis25-shen.pdf"><img src="/assets/img/pdf-icon.svg" alt="download PDF" /></a> -->
+* **Inheriting the Count: How Visualization Literacy Got Its Measure** - Bener, José
+* **Do Visualization Literacy Assessment Tests Account for High-Level Visualization Comprehension?** - Pandey, Tapendra
+* **A Collective Reflection on Surface and Substance in Visualization Teaching and Learning** - Saharan, Shehryar
+* **Fading the Training Wheels: Chart Taxonomies as Instructional Scaffolding** - Zong, Hannah
+* **Inkling: Exploring How Students Design Visualizations with Integrated Sketching, Natural Language, and Code Editing** - Kazerouni, Ayaan
+* **[Online] 1d5v (1 Dataset, 5 Visualizations): A Scalable Peer-Critique Model** - Willett, Wesley
+* **[Online] Snailpocalypse: A Physical Escape Room Game for Students** - Stoiber, Christina
+* **Constructing Visualizations to Investigate Plate Tectonics: Lessons for Visualization Education from an Earthquake Activity** - Fernandez, Cassia
 
 **09:30 - 10:00:** Morning coffee break<br>
 
-**10:00 - 11:15:** Poster-style discussion session<br>
+**10:00 - 11:15:** Educator reports<br>
+
+*3 mins each followed by 10 mins joint Q&A.*
+
+* **[Online] The Hyperbolic Time Chamber Card Kit: A Visualization Activity for Designing Personal Training Facilities for Disciplinary Learning** - Siddique, Jawwad Shadman
+* **[Online] Cognitive Atlases as Learning Instruments: Teaching with Knowledge Graphs** - Siddique, Jawwad Shadman
+* **"Code Is Cheap. Show Me the Talk.": Lessons from Teaching and Managing AI Coding Tool Usage in a Visualization Course** - Xu, Zhongzheng
+* **Same Chart, Many Titles: A Classroom Exercise in Framing Data** - Schwabish, Jon
+* **Introduction to Alternative Grading for Visualization Education** - Burns, Alyxander
+* **Capturing No-tech AI Mental Models from Craft Supplies: An AI Literacy Workshop** - Spivak, Shani
 
 **11:15 - 11:30:** Closing<br>
 
