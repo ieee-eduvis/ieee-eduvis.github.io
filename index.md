@@ -33,18 +33,18 @@ See the Week at a Glance program for more information: <https://ieeevis.org/year
 
 **Theme 1:** Measuring & Assessing Literacy (Chair: Carolina)
 
-* **Inheriting the Count: How Visualization Literacy Got Its Measure** - Bener, José
-* **Do Visualization Literacy Assessment Tests Account for High-Level Visualization Comprehension?** - Pandey, Tapendra
+* **Inheriting the Count: How Visualization Literacy Got Its Measure** - José Bener, Miriah Meyer
+* **Do Visualization Literacy Assessment Tests Account for High-Level Visualization Comprehension?** - Tapendra Pandey, Aaryani Chowdary Ambati, Arran Zeyu Wang, Ghulam Jilani Quadri
 
 **Theme 2:** Pedagogy & Scaffolding (Chair: Carolina)
 
-* **A Collective Reflection on Surface and Substance in Visualization Teaching and Learning** - Saharan, Shehryar
-* **Fading the Training Wheels: Chart Taxonomies as Instructional Scaffolding** - Zong, Hannah
+* **A Collective Reflection on Surface and Substance in Visualization Teaching and Learning** - Shehryar Saharan, Jenny Long, Ke Er Amy Zhang, Ibrahim Al-Hazwani, Alessia Musio, Narges Mahyar, Laura Garrison, Uta Hinrichs
+* **Fading the Training Wheels: Chart Taxonomies as Instructional Scaffolding** - Hannah Yanhua Zong, Nabin Khanal, Yingjie Victor
 
 **Theme 3:** Tools & Peer-Based Design Practice (Chair: Yixuan)
 
-* **Inkling: Exploring How Students Design Visualizations with Integrated Sketching, Natural Language, and Code Editing** - Kazerouni, Ayaan
-* **[Online] 1d5v (1 Dataset, 5 Visualizations): A Scalable Peer-Critique Model** - Willett, Wesley
+* **Inkling: Exploring How Students Design Visualizations with Integrated Sketching, Natural Language, and Code Editing** - Sadie M Fisher, Austin P Wright, Ayaan M Kazerouni
+* **[Online] 1d5v (1 Dataset, 5 Visualizations): A Scalable Peer-Critique Model** - Wesley Willett, Karly J. Ross
 
 **Theme 4:** Embodied & Domain-Situated Learning (Chair: Yixuan)
 
@@ -57,12 +57,12 @@ See the Week at a Glance program for more information: <https://ieeevis.org/year
 
 *3 mins presentations followed by 10 mins joint Q&A.*
 
-* **[Online] The Hyperbolic Time Chamber Card Kit: A Visualization Activity for Designing Personal Training Facilities for Disciplinary Learning** - Siddique, Jawwad Shadman
-* **[Online] Cognitive Atlases as Learning Instruments: Teaching with Knowledge Graphs** - Siddique, Jawwad Shadman
-* **"Code Is Cheap. Show Me the Talk.": Lessons from Teaching and Managing AI Coding Tool Usage in a Visualization Course** - Xu, Zhongzheng
-* **Same Chart, Many Titles: A Classroom Exercise in Framing Data** - Schwabish, Jon
-* **Introduction to Alternative Grading for Visualization Education** - Burns, Alyxander
-* **Capturing No-tech AI Mental Models from Craft Supplies: An AI Literacy Workshop** - Spivak, Shani
+* **[Online] The Hyperbolic Time Chamber Card Kit: A Visualization Activity for Designing Personal Training Facilities for Disciplinary Learning** - Jawwad Shadman Siddique
+* **[Online] Cognitive Atlases as Learning Instruments: Teaching with Knowledge Graphs** - Jawwad Shadman Siddique
+* **"Code Is Cheap. Show Me the Talk.": Lessons from Teaching and Managing AI Coding Tool Usage in a Visualization Course** - Zhongzheng Xu, Taehyun Yang, Fumeng Yang
+* **Same Chart, Many Titles: A Classroom Exercise in Framing Data** - Jon Schwabish, Alice Feng
+* **Introduction to Alternative Grading for Visualization Education** - Alyxander Burns
+* **Capturing No-tech AI Mental Models from Craft Supplies: An AI Literacy Workshop** - Shani Claire Spivak, Shira Michel, Mahsan Nourani
 
 **11:15 - 11:30: Closing**<br>
 
