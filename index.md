@@ -25,24 +25,37 @@ See the Week at a Glance program for more information: <https://ieeevis.org/year
 
 ## Program
 
-**8:00 - 8:15:** Workshop opening & Outline<br>
+**8:00 - 8:15: Workshop opening & Outline**<br>
 
-**8:15 - 9:30:** Paper session<br>
+**8:15 - 9:30: Paper session**<br>
+
+*7 mins presentations followed by 10 mins joint Q&A per theme.*
+
+**Theme 1:** Measuring & Assessing Literacy (Chair: Carolina)
 
 * **Inheriting the Count: How Visualization Literacy Got Its Measure** - Bener, José
 * **Do Visualization Literacy Assessment Tests Account for High-Level Visualization Comprehension?** - Pandey, Tapendra
+
+**Theme 2:** Pedagogy & Scaffolding (Chair: Carolina)
+
 * **A Collective Reflection on Surface and Substance in Visualization Teaching and Learning** - Saharan, Shehryar
 * **Fading the Training Wheels: Chart Taxonomies as Instructional Scaffolding** - Zong, Hannah
+
+**Theme 3:** Tools & Peer-Based Design Practice (Chair: Yixuan)
+
 * **Inkling: Exploring How Students Design Visualizations with Integrated Sketching, Natural Language, and Code Editing** - Kazerouni, Ayaan
 * **[Online] 1d5v (1 Dataset, 5 Visualizations): A Scalable Peer-Critique Model** - Willett, Wesley
+
+**Theme 4:** Embodied & Domain-Situated Learning (Chair: Yixuan)
+
 * **[Online] Snailpocalypse: A Physical Escape Room Game for Students** - Stoiber, Christina
 * **Constructing Visualizations to Investigate Plate Tectonics: Lessons for Visualization Education from an Earthquake Activity** - Fernandez, Cassia
 
-**09:30 - 10:00:** Morning coffee break<br>
+**09:30 - 10:00: Morning coffee break**<br>
 
-**10:00 - 11:15:** Educator reports<br>
+**10:00 - 11:15: Educator reports**<br>
 
-*3 mins each followed by 10 mins joint Q&A.*
+*3 mins presentations followed by 10 mins joint Q&A.*
 
 * **[Online] The Hyperbolic Time Chamber Card Kit: A Visualization Activity for Designing Personal Training Facilities for Disciplinary Learning** - Siddique, Jawwad Shadman
 * **[Online] Cognitive Atlases as Learning Instruments: Teaching with Knowledge Graphs** - Siddique, Jawwad Shadman
@@ -51,7 +64,7 @@ See the Week at a Glance program for more information: <https://ieeevis.org/year
 * **Introduction to Alternative Grading for Visualization Education** - Burns, Alyxander
 * **Capturing No-tech AI Mental Models from Craft Supplies: An AI Literacy Workshop** - Spivak, Shani
 
-**11:15 - 11:30:** Closing<br>
+**11:15 - 11:30: Closing**<br>
 
 ## Workshop goals and scope of topics
 
@@ -101,12 +114,13 @@ All deadlines are at 11:59pm (23:59) AoE ([Anywhere on Earth](https://en.wikiped
 
 * ~~July 3, 2026 extended to July 10, 2026: Paper and Educator Report Submission~~
 * ~~July 27, 2026 extended to July 30, 2026: Author Notification~~
-* **August 14, 2026: Camera-ready Submission**
+* ~~August 14, 2026: Camera-ready Submission~~
 
 Submissions will be accepted through [PCS](https://new.precisionconference.com/submissions).
 
 ## Organizers
 
+* [Carolina Nobre](https://carolinanobre.com/), University of Toronto
 * [Christina Stoiber](https://icmt.fhstp.ac.at/en/team/christina-stoiber), St. Pölten University of Applied Sciences
 * [Fateme Rajabiyazdi](https://fatemerajabiyazdi.github.io/HealthVisFutures), University of Calgary
 * [Mandy Keck](https://pure.fh-ooe.at/en/persons/mandy-keck), University of Applied Sciences Upper Austria
