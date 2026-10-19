@@ -48,8 +48,8 @@ See the Week at a Glance program for more information: <https://ieeevis.org/year
 
 **Theme 4:** Embodied & Domain-Situated Learning (Chair: Yixuan)
 
-* **[Online] Snailpocalypse: A Physical Escape Room Game for Students** - Stoiber, Christina
-* **Constructing Visualizations to Investigate Plate Tectonics: Lessons for Visualization Education from an Earthquake Activity** - Fernandez, Cassia
+* **[Online] Snailpocalypse: A Physical Escape Room Game for Students** - Christina Stoiber, Magdalena Boucher, Julia Böck, Kate Farrell, asmeen Kanwal
+* **Constructing Visualizations to Investigate Plate Tectonics: Lessons for Visualization Education from an Earthquake Activity** - Cassia Fernandez
 
 **09:30 - 10:00: Morning coffee break**<br>
 
