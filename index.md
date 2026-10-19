@@ -41,15 +41,15 @@ See the Week at a Glance program for more information: <https://ieeevis.org/year
 * **A Collective Reflection on Surface and Substance in Visualization Teaching and Learning** - Shehryar Saharan, Jenny Long, Ke Er Amy Zhang, Ibrahim Al-Hazwani, Alessia Musio, Narges Mahyar, Laura Garrison, Uta Hinrichs
 * **Fading the Training Wheels: Chart Taxonomies as Instructional Scaffolding** - Hannah Yanhua Zong, Nabin Khanal, Yingjie Victor
 
-**Theme 3:** Tools & Peer-Based Design Practice (Chair: Yixuan)
-
-* **Inkling: Exploring How Students Design Visualizations with Integrated Sketching, Natural Language, and Code Editing** - Sadie M Fisher, Austin P Wright, Ayaan M Kazerouni
-* **[Online] 1d5v (1 Dataset, 5 Visualizations): A Scalable Peer-Critique Model** - Wesley Willett, Karly J. Ross
-
-**Theme 4:** Embodied & Domain-Situated Learning (Chair: Yixuan)
+**Theme 3:** Embodied & Domain-Situated Learning (Chair: Yixuan)
 
 * **[Online] Snailpocalypse: A Physical Escape Room Game for Students** - Christina Stoiber, Magdalena Boucher, Julia Böck, Kate Farrell, asmeen Kanwal
 * **Constructing Visualizations to Investigate Plate Tectonics: Lessons for Visualization Education from an Earthquake Activity** - Cassia Fernandez
+
+**Theme 4:** Tools & Peer-Based Design Practice (Chair: Yixuan)
+
+* **Inkling: Exploring How Students Design Visualizations with Integrated Sketching, Natural Language, and Code Editing** - Sadie M Fisher, Austin P Wright, Ayaan M Kazerouni
+* **[Online] 1d5v (1 Dataset, 5 Visualizations): A Scalable Peer-Critique Model** - Wesley Willett, Karly J. Ross
 
 **09:30 - 10:00: Morning coffee break**<br>
 
