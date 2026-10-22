@@ -53,7 +53,7 @@ See the Week at a Glance program for more information: <https://ieeevis.org/year
 
 **09:30 - 10:00: Morning coffee break**<br>
 
-**10:00 - 11:15: Educator reports**<br>
+**10:00 - 10:30: Educator reports**<br>
 
 *3 mins presentations followed by 10 mins joint Q&A.*
 
@@ -63,6 +63,8 @@ See the Week at a Glance program for more information: <https://ieeevis.org/year
 * **Same Chart, Many Titles: A Classroom Exercise in Framing Data** - Jon Schwabish, Alice Feng
 * **Introduction to Alternative Grading for Visualization Education** - Alyxander Burns
 * **Capturing No-tech AI Mental Models from Craft Supplies: An AI Literacy Workshop** - Shani Claire Spivak, Shira Michel, Mahsan Nourani
+
+**10:30 - 11:15: Poster-Style Discussion**<br>
 
 **11:15 - 11:30: Closing**<br>
 
