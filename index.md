@@ -39,7 +39,7 @@ See the Week at a Glance program for more information: <https://ieeevis.org/year
 **Theme 2:** Pedagogy & Scaffolding (Chair: Carolina)
 
 * **A Collective Reflection on Surface and Substance in Visualization Teaching and Learning** - Shehryar Saharan, Jenny Long, Ke Er Amy Zhang, Ibrahim Al-Hazwani, Alessia Musio, Narges Mahyar, Laura Garrison, Uta Hinrichs
-* **Fading the Training Wheels: Chart Taxonomies as Instructional Scaffolding** - Hannah Yanhua Zong, Nabin Khanal, Yingjie Victor
+* **[Online] Fading the Training Wheels: Chart Taxonomies as Instructional Scaffolding** - Hannah Yanhua Zong, Nabin Khanal, Yingjie Victor
 
 **Theme 3:** Embodied & Domain-Situated Learning (Chair: Yixuan)
 
