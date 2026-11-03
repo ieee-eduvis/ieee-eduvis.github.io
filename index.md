@@ -20,7 +20,7 @@ The workshop can be attended either in person in Boston or online.
 Please note that satellite events do not offer in-person attendance for this workshop—authors attending via a satellite event will participate online only.
 We will provide a link to attend the workshop online here on the website.
 
-The workshop will happen on **Monday, November 9, 2026  8:00 AM - 11:30 PM (EST).**
+The workshop will happen on **Monday, November 9, 2026  8:00 AM - 11:30 AM (EST).**
 See the Week at a Glance program for more information: <https://ieeevis.org/year/2026/info/program/week-at-a-glance>
 
 ## Program
