@@ -4,6 +4,8 @@ layout: default
 
 # IEEE VIS Workshop on Visualization Education, Literacy, and Activities 2026
 
+**Zoom link to join the workshop on Monday: <https://liu-se.zoom.us/j/68246907568?pwd=ck3UWEMWQleM5c7L9ZDwVpc8KSjN8A.1>**
+
 This is the 4<sup>th</sup> workshop on visualization education, literacy, and activities. This half-day workshop takes place at the [IEEE Vis 2026](https://ieeevis.org/year/2026/welcome) conference in Boston, United States, with the option to join online.
 The EduVis workshop aims to become the primary forum to share and discuss advances, challenges, and methods at the intersection of visualization and education. It addresses an interdisciplinary audience from and beyond visualization, education, learning analytics, science communication, arts and design, psychology, and adjacent fields such as data science and HCI.
 
@@ -53,7 +55,7 @@ See the Week at a Glance program for more information: <https://ieeevis.org/year
 
 **09:30 - 10:00: Morning coffee break**<br>
 
-**10:00 - 10:30: Educator reports**<br>
+**10:00 - 10:30: Educator reports** (Chair: Xian Xu)<br>
 
 *3 mins presentations followed by 10 mins joint Q&A.*
 
